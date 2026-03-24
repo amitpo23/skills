@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-03-20T18:29:34.471118",
+  "results": {
+    "orders": {
+      "active_hotels": 23,
+      "active_orders": 1772,
+      "status": {
+        "null_pending": 0,
+        "completed": 1771,
+        "in_progress": 1,
+        "failed": 0,
+        "date_error": 0
+      },
+      "details": {
+        "ro": 1919,
+        "bb": 2118,
+        "total": 4037
+      },
+      "archive_orders": 3825,
+      "archive_details": 38434
+    }
+  },
+  "alerts": []
+}

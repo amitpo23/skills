@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-03-18T12:22:04.178008+00:00",
+  "mode": "DRY-RUN",
+  "config": {
+    "min_hits": 1,
+    "hours": 6,
+    "max_fixes_per_hotel": 5,
+    "safe_categories": [
+      "deluxe",
+      "standard",
+      "suite",
+      "superior"
+    ]
+  },
+  "results": [
+    {
+      "hotel_id": 20702,
+      "hotel_name": "Embassy Suites by Hilton Miami International Airport",
+      "category": "standard",
+      "board": "BB",
+      "action": "WOULD_FIX",
+      "reason": "Dry-run: would insert ratebycat (13170/Stnd)",
+      "rpc": "13170",
+      "itc": "Stnd",
+      "miss_count": 1,
+      "avg_price": 160.4
+    },
+    {
+      "hotel_id": 24982,
+      "hotel_name": "Hilton Miami Downtown",
+      "category": "deluxe",
+      "board": "BB",
+      "action": "WOULD_FIX",
+      "reason": "Dry-run: would insert ratebycat (13173/DLX)",
+      "rpc": "13173",
+      "itc": "DLX",
+      "miss_count": 1,
+      "avg_price": 401.16
+    },
+    {
+      "hotel_id": 66814,
+      "hotel_name": "Breakwater South Beach",
+      "category": "apartment",
+      "board": "BB",
+      "action": "ALERT_UNSAFE_CAT",
+      "reason": "Category 'apartment' not in safe list {'standard', 'deluxe', 'superior', 'suite'}. Needs manual review.",
+      "rpc": "",
+      "itc": "",
+      "miss_count": 1,
+      "avg_price": 683.71
+    },
+    {
+      "hotel_id": 854881,
+      "hotel_name": "citizenM Miami Brickell hotel",
+      "category": "standard",
+      "board": "BB",
+      "action": "ALERT_TYPE_B",
+      "reason": "Board BB has no RatePlanCode for hotel 854881. Create in Zenith first.",
+      "rpc": "",
+      "itc": "",
+      "miss_count": 1,
+      "avg_price": 281.56
+    }
+  ],
+  "summary": {
+    "fixed": 0,
+    "would_fix": 2,
+    "skipped": 0,
+    "alerts": 2
+  }
+}

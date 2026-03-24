@@ -1,0 +1,9 @@
+{
+  "generatedAtUtc": "2026-03-18T09:10:12.893242+00:00",
+  "totalHotelsAnalyzed": 0,
+  "hotelsWithGaps": 0,
+  "totalGaps": 0,
+  "typeA_autoFixable": 0,
+  "typeB_needsZenith": 0,
+  "gapsByHotel": []
+}

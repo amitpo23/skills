@@ -1,0 +1,18 @@
+HotelId,HotelName,VenueId,BoardId,BoardCode,CategoryId,CategoryName,GapType,SuggestedRPC,SuggestedITC,Reason
+20702,Embassy Suites by Hilton Miami International Airport,5081,1,RO,2,superior,A,12045,SPR,Board RO exists for hotel but category superior is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,1,RO,4,deluxe,A,12045,DLX,Board RO exists for hotel but category deluxe is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,2,BB,1,standard,A,13170,Stnd,Board BB exists for hotel but category standard is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,2,BB,2,superior,A,13170,SPR,Board BB exists for hotel but category superior is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,2,BB,4,deluxe,A,13170,DLX,Board BB exists for hotel but category deluxe is missing
+24982,Hilton Miami Downtown,5084,1,RO,2,superior,A,12048,SPR,Board RO exists for hotel but category superior is missing
+24982,Hilton Miami Downtown,5084,1,RO,4,deluxe,A,12048,DLX,Board RO exists for hotel but category deluxe is missing
+24982,Hilton Miami Downtown,5084,2,BB,2,superior,A,13173,SPR,Board BB exists for hotel but category superior is missing
+24982,Hilton Miami Downtown,5084,2,BB,4,deluxe,A,13173,DLX,Board BB exists for hotel but category deluxe is missing
+64309,Savoy Hotel,5103,1,RO,2,superior,A,12071,SPR,Board RO exists for hotel but category superior is missing
+64309,Savoy Hotel,5103,2,BB,2,superior,A,13155,SPR,Board BB exists for hotel but category superior is missing
+852120,SLS LUX Brickell,5077,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+852120,SLS LUX Brickell,5077,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+852120,SLS LUX Brickell,5077,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+854881,citizenM Miami Brickell hotel,5079,1,RO,2,superior,A,12043,SPR,Board RO exists for hotel but category superior is missing
+854881,citizenM Miami Brickell hotel,5079,1,RO,4,deluxe,A,12043,DLX,Board RO exists for hotel but category deluxe is missing
+854881,citizenM Miami Brickell hotel,5079,1,RO,12,suite,A,12043,Suite,Board RO exists for hotel but category suite is missing

@@ -1,0 +1,122 @@
+[
+  {
+    "hotel_id": 64390,
+    "board_id": 1,
+    "category_id": 1,
+    "status": "INSERTED",
+    "rpc": "12069",
+    "itc": "Stnd"
+  },
+  {
+    "hotel_id": 64390,
+    "board_id": 1,
+    "category_id": 2,
+    "status": "INSERTED",
+    "rpc": "12069",
+    "itc": "SPR"
+  },
+  {
+    "hotel_id": 64390,
+    "board_id": 1,
+    "category_id": 4,
+    "status": "INSERTED",
+    "rpc": "12069",
+    "itc": "DLX"
+  },
+  {
+    "hotel_id": 117491,
+    "board_id": 1,
+    "category_id": 2,
+    "status": "INSERTED",
+    "rpc": "12059",
+    "itc": "SPR"
+  },
+  {
+    "hotel_id": 117491,
+    "board_id": 1,
+    "category_id": 12,
+    "status": "INSERTED",
+    "rpc": "12059",
+    "itc": "Suite"
+  },
+  {
+    "hotel_id": 237547,
+    "board_id": 1,
+    "category_id": 2,
+    "status": "INSERTED",
+    "rpc": "12070",
+    "itc": "SPR"
+  },
+  {
+    "hotel_id": 237547,
+    "board_id": 1,
+    "category_id": 4,
+    "status": "INSERTED",
+    "rpc": "12070",
+    "itc": "DLX"
+  },
+  {
+    "hotel_id": 237547,
+    "board_id": 1,
+    "category_id": 12,
+    "status": "INSERTED",
+    "rpc": "12070",
+    "itc": "Suite"
+  },
+  {
+    "hotel_id": 333502,
+    "board_id": 1,
+    "category_id": 2,
+    "status": "INSERTED",
+    "rpc": "12067",
+    "itc": "SPR"
+  },
+  {
+    "hotel_id": 333502,
+    "board_id": 2,
+    "category_id": 2,
+    "status": "INSERTED",
+    "rpc": "13159",
+    "itc": "SPR"
+  },
+  {
+    "hotel_id": 333502,
+    "board_id": 2,
+    "category_id": 4,
+    "status": "INSERTED",
+    "rpc": "13159",
+    "itc": "DLX"
+  },
+  {
+    "hotel_id": 333502,
+    "board_id": 2,
+    "category_id": 12,
+    "status": "INSERTED",
+    "rpc": "13159",
+    "itc": "Suite"
+  },
+  {
+    "hotel_id": 852120,
+    "board_id": 1,
+    "category_id": 2,
+    "status": "INSERTED",
+    "rpc": "12035",
+    "itc": "SPR"
+  },
+  {
+    "hotel_id": 852120,
+    "board_id": 2,
+    "category_id": 2,
+    "status": "INSERTED",
+    "rpc": "13168",
+    "itc": "SPR"
+  },
+  {
+    "hotel_id": 852120,
+    "board_id": 2,
+    "category_id": 4,
+    "status": "INSERTED",
+    "rpc": "13168",
+    "itc": "DLX"
+  }
+]

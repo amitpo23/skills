@@ -1,0 +1,202 @@
+{
+  "generatedAtUtc": "2026-03-18T12:43:31.174397+00:00",
+  "totalHotelsAnalyzed": 5,
+  "hotelsWithGaps": 5,
+  "totalGaps": 15,
+  "typeA_autoFixable": 15,
+  "typeB_needsZenith": 0,
+  "gapsByHotel": [
+    {
+      "hotelId": 64390,
+      "hotelName": "Crystal Beach Suites Hotel",
+      "venueId": 5100,
+      "existingCombos": 1,
+      "mappedBoards": [
+        "RO"
+      ],
+      "totalGaps": 3,
+      "typeAGaps": 3,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "standard",
+          "type": "A",
+          "suggestedRPC": "12069",
+          "suggestedITC": "Stnd",
+          "reason": "Board RO exists for hotel but category standard is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12069",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "12069",
+          "suggestedITC": "DLX",
+          "reason": "Board RO exists for hotel but category deluxe is missing"
+        }
+      ]
+    },
+    {
+      "hotelId": 117491,
+      "hotelName": "FAIRWIND HOTEL & SUITES SOUTH BEACH",
+      "venueId": 5089,
+      "existingCombos": 2,
+      "mappedBoards": [
+        "RO"
+      ],
+      "totalGaps": 2,
+      "typeAGaps": 2,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12059",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "suite",
+          "type": "A",
+          "suggestedRPC": "12059",
+          "suggestedITC": "Suite",
+          "reason": "Board RO exists for hotel but category suite is missing"
+        }
+      ]
+    },
+    {
+      "hotelId": 237547,
+      "hotelName": "Notebook Miami Beach",
+      "venueId": 5102,
+      "existingCombos": 1,
+      "mappedBoards": [
+        "RO"
+      ],
+      "totalGaps": 3,
+      "typeAGaps": 3,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12070",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "12070",
+          "suggestedITC": "DLX",
+          "reason": "Board RO exists for hotel but category deluxe is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "suite",
+          "type": "A",
+          "suggestedRPC": "12070",
+          "suggestedITC": "Suite",
+          "reason": "Board RO exists for hotel but category suite is missing"
+        }
+      ]
+    },
+    {
+      "hotelId": 333502,
+      "hotelName": "Eurostars Langford Hotel",
+      "venueId": 5098,
+      "existingCombos": 4,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 4,
+      "typeAGaps": 4,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12067",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "13159",
+          "suggestedITC": "SPR",
+          "reason": "Board BB exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "13159",
+          "suggestedITC": "DLX",
+          "reason": "Board BB exists for hotel but category deluxe is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "suite",
+          "type": "A",
+          "suggestedRPC": "13159",
+          "suggestedITC": "Suite",
+          "reason": "Board BB exists for hotel but category suite is missing"
+        }
+      ]
+    },
+    {
+      "hotelId": 852120,
+      "hotelName": "SLS LUX Brickell",
+      "venueId": 5077,
+      "existingCombos": 5,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 3,
+      "typeAGaps": 3,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12035",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "13168",
+          "suggestedITC": "SPR",
+          "reason": "Board BB exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "13168",
+          "suggestedITC": "DLX",
+          "reason": "Board BB exists for hotel but category deluxe is missing"
+        }
+      ]
+    }
+  ]
+}

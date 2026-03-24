@@ -1,0 +1,16 @@
+HotelId,HotelName,VenueId,BoardId,BoardCode,CategoryId,CategoryName,GapType,SuggestedRPC,SuggestedITC,Reason
+64390,Crystal Beach Suites Hotel,5100,1,RO,1,standard,A,12069,Stnd,Board RO exists for hotel but category standard is missing
+64390,Crystal Beach Suites Hotel,5100,1,RO,2,superior,A,12069,SPR,Board RO exists for hotel but category superior is missing
+64390,Crystal Beach Suites Hotel,5100,1,RO,4,deluxe,A,12069,DLX,Board RO exists for hotel but category deluxe is missing
+117491,FAIRWIND HOTEL & SUITES SOUTH BEACH,5089,1,RO,2,superior,A,12059,SPR,Board RO exists for hotel but category superior is missing
+117491,FAIRWIND HOTEL & SUITES SOUTH BEACH,5089,1,RO,12,suite,A,12059,Suite,Board RO exists for hotel but category suite is missing
+237547,Notebook Miami Beach,5102,1,RO,2,superior,A,12070,SPR,Board RO exists for hotel but category superior is missing
+237547,Notebook Miami Beach,5102,1,RO,4,deluxe,A,12070,DLX,Board RO exists for hotel but category deluxe is missing
+237547,Notebook Miami Beach,5102,1,RO,12,suite,A,12070,Suite,Board RO exists for hotel but category suite is missing
+333502,Eurostars Langford Hotel,5098,1,RO,2,superior,A,12067,SPR,Board RO exists for hotel but category superior is missing
+333502,Eurostars Langford Hotel,5098,2,BB,2,superior,A,13159,SPR,Board BB exists for hotel but category superior is missing
+333502,Eurostars Langford Hotel,5098,2,BB,4,deluxe,A,13159,DLX,Board BB exists for hotel but category deluxe is missing
+333502,Eurostars Langford Hotel,5098,2,BB,12,suite,A,13159,Suite,Board BB exists for hotel but category suite is missing
+852120,SLS LUX Brickell,5077,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+852120,SLS LUX Brickell,5077,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+852120,SLS LUX Brickell,5077,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing

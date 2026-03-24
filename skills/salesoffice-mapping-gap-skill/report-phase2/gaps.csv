@@ -1,0 +1,5 @@
+HotelId,HotelName,VenueId,BoardId,BoardCode,CategoryId,CategoryName,GapType,SuggestedRPC,SuggestedITC,Reason
+20702,Embassy Suites by Hilton Miami International Airport,5081,2,BB,1,standard,A,13170,Stnd,API returns standard/BB 1x in window. Board BB exists with RPC=13170. Auto-fixable.
+24982,Hilton Miami Downtown,5084,2,BB,4,deluxe,A,13173,DLX,API returns deluxe/BB 1x in window. Board BB exists with RPC=13173. Auto-fixable.
+66814,Breakwater South Beach,5110,2,BB,7,apartment,A,12867,APT,API returns apartment/BB 1x in window. Board BB exists with RPC=12867. Auto-fixable.
+854881,citizenM Miami Brickell hotel,5079,2,BB,1,standard,B,,,API returns standard/BB 1x in window. Board BB has NO RatePlanCode for this hotel. Needs Zenith setup.

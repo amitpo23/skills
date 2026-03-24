@@ -1,0 +1,56 @@
+{
+  "generatedAtUtc": "2026-03-18T12:07:27.749008+00:00",
+  "totalHotelsAnalyzed": 2,
+  "hotelsWithGaps": 2,
+  "totalGaps": 2,
+  "typeA_autoFixable": 2,
+  "typeB_needsZenith": 0,
+  "gapsByHotel": [
+    {
+      "hotelId": 20702,
+      "hotelName": "Embassy Suites by Hilton Miami International Airport",
+      "venueId": 5081,
+      "existingCombos": 3,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 1,
+      "typeAGaps": 1,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "BB",
+          "categoryName": "standard",
+          "type": "A",
+          "suggestedRPC": "13170",
+          "suggestedITC": "Stnd",
+          "reason": "API returns standard/BB 1x in window. Board BB exists with RPC=13170. Auto-fixable."
+        }
+      ]
+    },
+    {
+      "hotelId": 24982,
+      "hotelName": "Hilton Miami Downtown",
+      "venueId": 5084,
+      "existingCombos": 4,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 1,
+      "typeAGaps": 1,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "BB",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "13173",
+          "suggestedITC": "DLX",
+          "reason": "API returns deluxe/BB 1x in window. Board BB exists with RPC=13173. Auto-fixable."
+        }
+      ]
+    }
+  ]
+}

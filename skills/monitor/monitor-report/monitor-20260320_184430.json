@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-03-20T18:44:30.794947",
+  "results": {
+    "webjob": {
+      "last_log": {
+        "order_id": 1278,
+        "time": "2026-03-20 16:44:30",
+        "minutes_ago": 120.0
+      },
+      "last_in_progress": {
+        "order_id": 2735,
+        "time": "20.03.2026 16:31:40",
+        "minutes_ago": 132.8
+      },
+      "latest_activity_minutes": 120.0,
+      "in_progress": [
+        {
+          "order_id": 1278,
+          "hotel": "Breakwater South Beach"
+        },
+        {
+          "order_id": 2735,
+          "hotel": "The Grayson Hotel Miami Downtown"
+        }
+      ],
+      "pending_orders": 0,
+      "failed_orders": 0,
+      "active_orders": 1772,
+      "estimated_cycle_hours": 14.8
+    }
+  },
+  "alerts": [
+    {
+      "severity": "CRITICAL",
+      "component": "WebJob",
+      "message": "No activity for 120 minutes",
+      "timestamp": "2026-03-20T18:44:30.257053"
+    }
+  ]
+}

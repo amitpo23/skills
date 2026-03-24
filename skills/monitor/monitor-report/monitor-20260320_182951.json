@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-03-20T18:29:51.743127",
+  "results": {
+    "webjob": {
+      "last_log": {
+        "order_id": 2722,
+        "time": "2026-03-20 16:25:18",
+        "minutes_ago": 124.5
+      },
+      "in_progress": [
+        {
+          "order_id": 2731,
+          "hotel": "The Grayson Hotel Miami Downtown"
+        }
+      ],
+      "pending_orders": 0,
+      "failed_orders": 0,
+      "active_orders": 1772,
+      "estimated_cycle_hours": 14.8
+    }
+  },
+  "alerts": [
+    {
+      "severity": "CRITICAL",
+      "component": "WebJob",
+      "message": "No activity for 125 minutes (last: Order 2722)",
+      "timestamp": "2026-03-20T18:29:51.200630"
+    }
+  ]
+}

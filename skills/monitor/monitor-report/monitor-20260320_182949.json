@@ -1,0 +1,287 @@
+{
+  "timestamp": "2026-03-20T18:29:49.020829",
+  "results": {
+    "mapping": {
+      "active_hotels": 23,
+      "hotels_with_ratebycat": 263,
+      "hotels_with_bb": 221,
+      "open_misses": [
+        {
+          "hotel_id": 6660,
+          "category": "dormitory",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 6661,
+          "category": "standard",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 6661,
+          "category": "suite",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 6663,
+          "category": "standard",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 6805,
+          "category": "apartment",
+          "board": "BB",
+          "hits": 3
+        },
+        {
+          "hotel_id": 6805,
+          "category": "apartment",
+          "board": "RO",
+          "hits": 3
+        },
+        {
+          "hotel_id": 6805,
+          "category": "deluxe",
+          "board": "HB",
+          "hits": 3
+        },
+        {
+          "hotel_id": 6805,
+          "category": "executive",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 6805,
+          "category": "executive",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 6805,
+          "category": "standard",
+          "board": "HB",
+          "hits": 3
+        },
+        {
+          "hotel_id": 6805,
+          "category": "suite",
+          "board": "HB",
+          "hits": 3
+        },
+        {
+          "hotel_id": 6805,
+          "category": "superior",
+          "board": "HB",
+          "hits": 3
+        },
+        {
+          "hotel_id": 20702,
+          "category": "dormitory",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 20706,
+          "category": "deluxe",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 22034,
+          "category": "apartment",
+          "board": "BB",
+          "hits": 3
+        },
+        {
+          "hotel_id": 24989,
+          "category": "deluxe",
+          "board": "HB",
+          "hits": 2
+        },
+        {
+          "hotel_id": 24989,
+          "category": "standard",
+          "board": "HB",
+          "hits": 2
+        },
+        {
+          "hotel_id": 31226,
+          "category": "apartment",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 31226,
+          "category": "superior",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 31709,
+          "category": "dormitory",
+          "board": "RO",
+          "hits": 2
+        },
+        {
+          "hotel_id": 66737,
+          "category": "deluxe",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 66814,
+          "category": "apartment",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 68833,
+          "category": "apartment",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 193899,
+          "category": "standard",
+          "board": "AI",
+          "hits": 1
+        },
+        {
+          "hotel_id": 193899,
+          "category": "suite",
+          "board": "AI",
+          "hits": 1
+        },
+        {
+          "hotel_id": 241025,
+          "category": "standard",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 241025,
+          "category": "suite",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 254198,
+          "category": "deluxe",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 254198,
+          "category": "dormitory",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 254198,
+          "category": "superior",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 254198,
+          "category": "superior",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 277280,
+          "category": "deluxe",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 383277,
+          "category": "apartment",
+          "board": "BB",
+          "hits": 3
+        },
+        {
+          "hotel_id": 383277,
+          "category": "apartment",
+          "board": "RO",
+          "hits": 3
+        },
+        {
+          "hotel_id": 851633,
+          "category": "deluxe",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 851939,
+          "category": "deluxe",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 851939,
+          "category": "superior",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 851939,
+          "category": "superior",
+          "board": "RO",
+          "hits": 1
+        },
+        {
+          "hotel_id": 854881,
+          "category": "standard",
+          "board": "BB",
+          "hits": 1
+        },
+        {
+          "hotel_id": 855865,
+          "category": "deluxe",
+          "board": "BB",
+          "hits": 1
+        }
+      ],
+      "miss_rate_last_hour": 0,
+      "order_detail_gaps": [
+        {
+          "hotel": "Marseilles Hotel",
+          "hotel_id": 6663,
+          "gap": 8,
+          "total": 78
+        },
+        {
+          "hotel": "FAIRWIND HOTEL & SUITES SOUTH ",
+          "hotel_id": 117491,
+          "gap": 3,
+          "total": 77
+        },
+        {
+          "hotel": "The Grayson Hotel Miami Downto",
+          "hotel_id": 855865,
+          "gap": 1,
+          "total": 78
+        }
+      ]
+    }
+  },
+  "alerts": [
+    {
+      "severity": "INFO",
+      "component": "Mapping",
+      "message": "40 open mapping misses",
+      "timestamp": "2026-03-20T18:29:36.917833"
+    },
+    {
+      "severity": "WARNING",
+      "component": "Mapping",
+      "message": "3 hotels with ORDER!=DETAIL gaps",
+      "timestamp": "2026-03-20T18:29:49.020158"
+    }
+  ]
+}

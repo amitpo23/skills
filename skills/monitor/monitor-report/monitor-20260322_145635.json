@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-03-22T14:56:35.620188",
+  "results": {
+    "skills": {
+      "autofix_worker": {
+        "last_file": "audit_20260318_142204.json",
+        "age_minutes": 5794.5
+      },
+      "price_override": {
+        "total": 1,
+        "pending": 0,
+        "pushed": 0,
+        "failed": 0
+      },
+      "insert_opp": {
+        "last_24h": 0,
+        "active": 0
+      },
+      "lastprice_update": {
+        "last_cycle": "2026-03-22",
+        "updates_today": 95,
+        "hours_ago": 0,
+        "rebuys_7d": 15,
+        "price_up": 75,
+        "price_down": 19,
+        "avg_savings": 41.49,
+        "rebuy_candidates": 0
+      }
+    }
+  },
+  "alerts": []
+}

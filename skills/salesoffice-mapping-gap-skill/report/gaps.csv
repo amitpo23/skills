@@ -1,0 +1,954 @@
+HotelId,HotelName,VenueId,BoardId,BoardCode,CategoryId,CategoryName,GapType,SuggestedRPC,SuggestedITC,Reason
+1,Grand Hotel Rimini,2768,1,RO,2,superior,A,7073,SPR,Board RO exists for hotel but category superior is missing
+1,Grand Hotel Rimini,2768,1,RO,4,deluxe,A,7073,DLX,Board RO exists for hotel but category deluxe is missing
+1,Grand Hotel Rimini,2768,1,RO,12,suite,A,7073,Suite,Board RO exists for hotel but category suite is missing
+1,Grand Hotel Rimini,2768,2,BB,2,superior,A,7074,SPR,Board BB exists for hotel but category superior is missing
+1,Grand Hotel Rimini,2768,2,BB,4,deluxe,A,7074,DLX,Board BB exists for hotel but category deluxe is missing
+1,Grand Hotel Rimini,2768,2,BB,12,suite,A,7074,Suite,Board BB exists for hotel but category suite is missing
+250,Holiday Inn London - Bloomsbury,2849,1,RO,2,superior,A,7163,SPR,Board RO exists for hotel but category superior is missing
+250,Holiday Inn London - Bloomsbury,2849,1,RO,4,deluxe,A,7163,DLX,Board RO exists for hotel but category deluxe is missing
+250,Holiday Inn London - Bloomsbury,2849,1,RO,12,suite,A,7163,Suite,Board RO exists for hotel but category suite is missing
+250,Holiday Inn London - Bloomsbury,2849,2,BB,2,superior,A,7164,SPR,Board BB exists for hotel but category superior is missing
+250,Holiday Inn London - Bloomsbury,2849,2,BB,4,deluxe,A,7164,DLX,Board BB exists for hotel but category deluxe is missing
+250,Holiday Inn London - Bloomsbury,2849,2,BB,12,suite,A,7164,Suite,Board BB exists for hotel but category suite is missing
+571,Strand Palace Hotel,2845,1,RO,4,deluxe,A,7171,DLX,Board RO exists for hotel but category deluxe is missing
+571,Strand Palace Hotel,2845,1,RO,12,suite,A,7171,Suite,Board RO exists for hotel but category suite is missing
+571,Strand Palace Hotel,2845,2,BB,4,deluxe,A,7172,DLX,Board BB exists for hotel but category deluxe is missing
+571,Strand Palace Hotel,2845,2,BB,12,suite,A,7172,Suite,Board BB exists for hotel but category suite is missing
+695,Doubletree By Hilton London-Islington,695,1,RO,2,superior,A,7155,SPR,Board RO exists for hotel but category superior is missing
+695,Doubletree By Hilton London-Islington,695,1,RO,12,suite,A,7155,Suite,Board RO exists for hotel but category suite is missing
+695,Doubletree By Hilton London-Islington,695,2,BB,2,superior,A,7156,SPR,Board BB exists for hotel but category superior is missing
+695,Doubletree By Hilton London-Islington,695,2,BB,12,suite,A,7156,Suite,Board BB exists for hotel but category suite is missing
+1265,The Clermont Hotel Victoria (ex:The Amba Hotel Grosvenor),2852,1,RO,2,superior,A,7157,SPR,Board RO exists for hotel but category superior is missing
+1265,The Clermont Hotel Victoria (ex:The Amba Hotel Grosvenor),2852,1,RO,12,suite,A,7157,Suite,Board RO exists for hotel but category suite is missing
+1265,The Clermont Hotel Victoria (ex:The Amba Hotel Grosvenor),2852,2,BB,2,superior,A,7158,SPR,Board BB exists for hotel but category superior is missing
+1265,The Clermont Hotel Victoria (ex:The Amba Hotel Grosvenor),2852,2,BB,12,suite,A,7158,Suite,Board BB exists for hotel but category suite is missing
+1329,"Thistle Holborn, The Kingsley",2850,1,RO,2,superior,A,7161,SPR,Board RO exists for hotel but category superior is missing
+1329,"Thistle Holborn, The Kingsley",2850,1,RO,12,suite,A,7161,Suite,Board RO exists for hotel but category suite is missing
+1329,"Thistle Holborn, The Kingsley",2850,2,BB,2,superior,A,7162,SPR,Board BB exists for hotel but category superior is missing
+1329,"Thistle Holborn, The Kingsley",2850,2,BB,12,suite,A,7162,Suite,Board BB exists for hotel but category suite is missing
+1360,Pullman London St Pancras,2842,1,RO,4,deluxe,A,7177,DLX,Board RO exists for hotel but category deluxe is missing
+1360,Pullman London St Pancras,2842,1,RO,12,suite,A,7177,Suite,Board RO exists for hotel but category suite is missing
+1360,Pullman London St Pancras,2842,2,BB,4,deluxe,A,7178,DLX,Board BB exists for hotel but category deluxe is missing
+1360,Pullman London St Pancras,2842,2,BB,12,suite,A,7178,Suite,Board BB exists for hotel but category suite is missing
+1514,Phoenix Hotel,2804,1,RO,2,superior,A,7095,SPR,Board RO exists for hotel but category superior is missing
+1514,Phoenix Hotel,2804,1,RO,12,suite,A,7095,Suite,Board RO exists for hotel but category suite is missing
+1514,Phoenix Hotel,2804,2,BB,2,superior,A,7096,SPR,Board BB exists for hotel but category superior is missing
+1514,Phoenix Hotel,2804,2,BB,12,suite,A,7096,Suite,Board BB exists for hotel but category suite is missing
+1758,"The Clermont Hotel, Charing Cross (Ex: Amba Charing Cross - Guonan)",2860,1,RO,12,suite,A,7192,Suite,Board RO exists for hotel but category suite is missing
+1758,"The Clermont Hotel, Charing Cross (Ex: Amba Charing Cross - Guonan)",2860,2,BB,12,suite,A,7193,Suite,Board BB exists for hotel but category suite is missing
+1850,St James' Court A Taj Hotel (former Crowne Plaza St James),2844,1,RO,2,superior,A,7173,SPR,Board RO exists for hotel but category superior is missing
+1850,St James' Court A Taj Hotel (former Crowne Plaza St James),2844,1,RO,4,deluxe,A,7173,DLX,Board RO exists for hotel but category deluxe is missing
+1850,St James' Court A Taj Hotel (former Crowne Plaza St James),2844,1,RO,12,suite,A,7173,Suite,Board RO exists for hotel but category suite is missing
+1850,St James' Court A Taj Hotel (former Crowne Plaza St James),2844,2,BB,2,superior,A,7174,SPR,Board BB exists for hotel but category superior is missing
+1850,St James' Court A Taj Hotel (former Crowne Plaza St James),2844,2,BB,4,deluxe,A,7174,DLX,Board BB exists for hotel but category deluxe is missing
+1850,St James' Court A Taj Hotel (former Crowne Plaza St James),2844,2,BB,12,suite,A,7174,Suite,Board BB exists for hotel but category suite is missing
+2315,Est Hotel,2979,1,RO,2,superior,A,7528,SPR,Board RO exists for hotel but category superior is missing
+2315,Est Hotel,2979,1,RO,4,deluxe,A,7528,DLX,Board RO exists for hotel but category deluxe is missing
+2315,Est Hotel,2979,1,RO,12,suite,A,7528,Suite,Board RO exists for hotel but category suite is missing
+2315,Est Hotel,2979,2,BB,2,superior,A,7529,SPR,Board BB exists for hotel but category superior is missing
+2315,Est Hotel,2979,2,BB,4,deluxe,A,7529,DLX,Board BB exists for hotel but category deluxe is missing
+2315,Est Hotel,2979,2,BB,12,suite,A,7529,Suite,Board BB exists for hotel but category suite is missing
+3160,Hotel Central Saint Germain,2967,1,RO,2,superior,A,7547,SPR,Board RO exists for hotel but category superior is missing
+3160,Hotel Central Saint Germain,2967,1,RO,4,deluxe,A,7547,DLX,Board RO exists for hotel but category deluxe is missing
+3160,Hotel Central Saint Germain,2967,1,RO,12,suite,A,7547,Suite,Board RO exists for hotel but category suite is missing
+3160,Hotel Central Saint Germain,2967,2,BB,2,superior,A,7548,SPR,Board BB exists for hotel but category superior is missing
+3160,Hotel Central Saint Germain,2967,2,BB,4,deluxe,A,7548,DLX,Board BB exists for hotel but category deluxe is missing
+3160,Hotel Central Saint Germain,2967,2,BB,12,suite,A,7548,Suite,Board BB exists for hotel but category suite is missing
+3327,Hotel Le Senat,2985,1,RO,4,deluxe,A,7604,DLX,Board RO exists for hotel but category deluxe is missing
+3327,Hotel Le Senat,2985,1,RO,12,suite,A,7604,Suite,Board RO exists for hotel but category suite is missing
+3327,Hotel Le Senat,2985,2,BB,4,deluxe,A,7605,DLX,Board BB exists for hotel but category deluxe is missing
+3327,Hotel Le Senat,2985,2,BB,12,suite,A,7605,Suite,Board BB exists for hotel but category suite is missing
+3570,"Thistle Trafalgar, Leicester Square",2818,1,RO,2,superior,A,7125,SPR,Board RO exists for hotel but category superior is missing
+3570,"Thistle Trafalgar, Leicester Square",2818,1,RO,12,suite,A,7125,Suite,Board RO exists for hotel but category suite is missing
+3570,"Thistle Trafalgar, Leicester Square",2818,2,BB,2,superior,A,7126,SPR,Board BB exists for hotel but category superior is missing
+3570,"Thistle Trafalgar, Leicester Square",2818,2,BB,12,suite,A,7126,Suite,Board BB exists for hotel but category suite is missing
+3742,The Belgrave Hotel,2843,1,RO,2,superior,A,7175,SPR,Board RO exists for hotel but category superior is missing
+3742,The Belgrave Hotel,2843,1,RO,12,suite,A,7175,Suite,Board RO exists for hotel but category suite is missing
+3742,The Belgrave Hotel,2843,2,BB,2,superior,A,7176,SPR,Board BB exists for hotel but category superior is missing
+3742,The Belgrave Hotel,2843,2,BB,12,suite,A,7176,Suite,Board BB exists for hotel but category suite is missing
+3946,Doubletree by Hilton Westminster [ex. City Inn and Mint Westminster],2846,1,RO,2,superior,A,7169,SPR,Board RO exists for hotel but category superior is missing
+3946,Doubletree by Hilton Westminster [ex. City Inn and Mint Westminster],2846,1,RO,4,deluxe,A,7169,DLX,Board RO exists for hotel but category deluxe is missing
+3946,Doubletree by Hilton Westminster [ex. City Inn and Mint Westminster],2846,2,BB,2,superior,A,7170,SPR,Board BB exists for hotel but category superior is missing
+3946,Doubletree by Hilton Westminster [ex. City Inn and Mint Westminster],2846,2,BB,4,deluxe,A,7170,DLX,Board BB exists for hotel but category deluxe is missing
+4241,Rixos Premium Belek,2795,5,AI,2,superior,A,7083,SPR,Board AI exists for hotel but category superior is missing
+4241,Rixos Premium Belek,2795,5,AI,4,deluxe,A,7083,DLX,Board AI exists for hotel but category deluxe is missing
+4241,Rixos Premium Belek,2795,5,AI,12,suite,A,7083,Suite,Board AI exists for hotel but category suite is missing
+4329,New Hotel Roblin,3020,1,RO,4,deluxe,A,7689,DLX,Board RO exists for hotel but category deluxe is missing
+4329,New Hotel Roblin,3020,1,RO,12,suite,A,7689,Suite,Board RO exists for hotel but category suite is missing
+4329,New Hotel Roblin,3020,2,BB,4,deluxe,A,7690,DLX,Board BB exists for hotel but category deluxe is missing
+4329,New Hotel Roblin,3020,2,BB,12,suite,A,7690,Suite,Board BB exists for hotel but category suite is missing
+4735,Citadines Trafalgar Square London,2815,1,RO,2,superior,A,7121,SPR,Board RO exists for hotel but category superior is missing
+4735,Citadines Trafalgar Square London,2815,1,RO,4,deluxe,A,7121,DLX,Board RO exists for hotel but category deluxe is missing
+4735,Citadines Trafalgar Square London,2815,1,RO,12,suite,A,7121,Suite,Board RO exists for hotel but category suite is missing
+4755,Citadines Saint-Germain Des Pres,3019,1,RO,2,superior,A,7691,SPR,Board RO exists for hotel but category superior is missing
+4755,Citadines Saint-Germain Des Pres,3019,1,RO,12,suite,A,7691,Suite,Board RO exists for hotel but category suite is missing
+4848,PARK PLAZA RIVERBANK,4848,1,RO,4,deluxe,A,7129,DLX,Board RO exists for hotel but category deluxe is missing
+4848,PARK PLAZA RIVERBANK,4848,1,RO,12,suite,A,7129,Suite,Board RO exists for hotel but category suite is missing
+4848,PARK PLAZA RIVERBANK,4848,2,BB,4,deluxe,A,7130,DLX,Board BB exists for hotel but category deluxe is missing
+4848,PARK PLAZA RIVERBANK,4848,2,BB,12,suite,A,7130,Suite,Board BB exists for hotel but category suite is missing
+5012,Elysees 8 Hotel (ex Timhotel Elysees Cambaceres),2971,1,RO,2,superior,A,7541,SPR,Board RO exists for hotel but category superior is missing
+5012,Elysees 8 Hotel (ex Timhotel Elysees Cambaceres),2971,1,RO,4,deluxe,A,7541,DLX,Board RO exists for hotel but category deluxe is missing
+5012,Elysees 8 Hotel (ex Timhotel Elysees Cambaceres),2971,1,RO,12,suite,A,7541,Suite,Board RO exists for hotel but category suite is missing
+5012,Elysees 8 Hotel (ex Timhotel Elysees Cambaceres),2971,2,BB,2,superior,A,7542,SPR,Board BB exists for hotel but category superior is missing
+5012,Elysees 8 Hotel (ex Timhotel Elysees Cambaceres),2971,2,BB,4,deluxe,A,7542,DLX,Board BB exists for hotel but category deluxe is missing
+5012,Elysees 8 Hotel (ex Timhotel Elysees Cambaceres),2971,2,BB,12,suite,A,7542,Suite,Board BB exists for hotel but category suite is missing
+5470,Thistle Piccadilly,2847,1,RO,2,superior,A,7167,SPR,Board RO exists for hotel but category superior is missing
+5470,Thistle Piccadilly,2847,1,RO,12,suite,A,7167,Suite,Board RO exists for hotel but category suite is missing
+5470,Thistle Piccadilly,2847,2,BB,2,superior,A,7168,SPR,Board BB exists for hotel but category superior is missing
+5470,Thistle Piccadilly,2847,2,BB,12,suite,A,7168,Suite,Board BB exists for hotel but category suite is missing
+5738,Les Tournelles (formerly Les Chevaliers Du Marais),2972,1,RO,2,superior,A,7539,SPR,Board RO exists for hotel but category superior is missing
+5738,Les Tournelles (formerly Les Chevaliers Du Marais),2972,1,RO,4,deluxe,A,7539,DLX,Board RO exists for hotel but category deluxe is missing
+5738,Les Tournelles (formerly Les Chevaliers Du Marais),2972,1,RO,12,suite,A,7539,Suite,Board RO exists for hotel but category suite is missing
+5738,Les Tournelles (formerly Les Chevaliers Du Marais),2972,2,BB,2,superior,A,7540,SPR,Board BB exists for hotel but category superior is missing
+5738,Les Tournelles (formerly Les Chevaliers Du Marais),2972,2,BB,4,deluxe,A,7540,DLX,Board BB exists for hotel but category deluxe is missing
+5738,Les Tournelles (formerly Les Chevaliers Du Marais),2972,2,BB,12,suite,A,7540,Suite,Board BB exists for hotel but category suite is missing
+6322,The Venetian Resort Hotel & Casino,2951,1,RO,1,standard,A,7382,Stnd,Board RO exists for hotel but category standard is missing
+6322,The Venetian Resort Hotel & Casino,2951,1,RO,2,superior,A,7382,SPR,Board RO exists for hotel but category superior is missing
+6325,Wynn Las Vegas,2953,1,RO,2,superior,A,7375,SPR,Board RO exists for hotel but category superior is missing
+6325,Wynn Las Vegas,2953,1,RO,12,suite,A,7375,Suite,Board RO exists for hotel but category suite is missing
+6482,InterContinental Miami,5276,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+6482,InterContinental Miami,5276,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+6482,InterContinental Miami,5276,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+6654,Dorchester Hotel,5266,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+6654,Dorchester Hotel,5266,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+6654,Dorchester Hotel,5266,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+6660,Freehand Miami,5107,1,RO,4,deluxe,A,12076,DLX,Board RO exists for hotel but category deluxe is missing
+6661,Loews Miami Beach Hotel,5073,1,RO,2,superior,A,12033,SPR,Board RO exists for hotel but category superior is missing
+6661,Loews Miami Beach Hotel,5073,1,RO,4,deluxe,A,12033,DLX,Board RO exists for hotel but category deluxe is missing
+6663,Marseilles Hotel,5096,1,RO,2,superior,A,12065,SPR,Board RO exists for hotel but category superior is missing
+6663,Marseilles Hotel,5096,1,RO,4,deluxe,A,12065,DLX,Board RO exists for hotel but category deluxe is missing
+10192,Dusit Thani,2876,1,RO,2,superior,A,7252,SPR,Board RO exists for hotel but category superior is missing
+10192,Dusit Thani,2876,1,RO,12,suite,A,7252,Suite,Board RO exists for hotel but category suite is missing
+10192,Dusit Thani,2876,2,BB,2,superior,A,7253,SPR,Board BB exists for hotel but category superior is missing
+10192,Dusit Thani,2876,2,BB,12,suite,A,7253,Suite,Board BB exists for hotel but category suite is missing
+10248,St Regis Downtown,2867,1,RO,1,standard,A,7271,Stnd,Board RO exists for hotel but category standard is missing
+10248,St Regis Downtown,2867,1,RO,12,suite,A,7271,Suite,Board RO exists for hotel but category suite is missing
+10248,St Regis Downtown,2867,2,BB,1,standard,A,7272,Stnd,Board BB exists for hotel but category standard is missing
+10248,St Regis Downtown,2867,2,BB,12,suite,A,7272,Suite,Board BB exists for hotel but category suite is missing
+10265,Shangri-La Dubai,2873,1,RO,2,superior,A,7258,SPR,Board RO exists for hotel but category superior is missing
+10265,Shangri-La Dubai,2873,1,RO,12,suite,A,7258,Suite,Board RO exists for hotel but category suite is missing
+10265,Shangri-La Dubai,2873,2,BB,2,superior,A,7259,SPR,Board BB exists for hotel but category superior is missing
+10265,Shangri-La Dubai,2873,2,BB,12,suite,A,7259,Suite,Board BB exists for hotel but category suite is missing
+10379,Royal National Hotel,2946,1,RO,2,superior,A,7376,SPR,Board RO exists for hotel but category superior is missing
+10379,Royal National Hotel,2946,1,RO,4,deluxe,A,7376,DLX,Board RO exists for hotel but category deluxe is missing
+10379,Royal National Hotel,2946,1,RO,12,suite,A,7376,Suite,Board RO exists for hotel but category suite is missing
+10379,Royal National Hotel,2946,2,BB,2,superior,A,7377,SPR,Board BB exists for hotel but category superior is missing
+10379,Royal National Hotel,2946,2,BB,4,deluxe,A,7377,DLX,Board BB exists for hotel but category deluxe is missing
+10379,Royal National Hotel,2946,2,BB,12,suite,A,7377,Suite,Board BB exists for hotel but category suite is missing
+11661,Blakemore Hyde Park,2796,1,RO,2,superior,A,7086,SPR,Board RO exists for hotel but category superior is missing
+11661,Blakemore Hyde Park,2796,1,RO,4,deluxe,A,7086,DLX,Board RO exists for hotel but category deluxe is missing
+11661,Blakemore Hyde Park,2796,1,RO,12,suite,A,7086,Suite,Board RO exists for hotel but category suite is missing
+11661,Blakemore Hyde Park,2796,2,BB,2,superior,A,7864,SPR,Board BB exists for hotel but category superior is missing
+11661,Blakemore Hyde Park,2796,2,BB,4,deluxe,A,7864,DLX,Board BB exists for hotel but category deluxe is missing
+11661,Blakemore Hyde Park,2796,2,BB,12,suite,A,7864,Suite,Board BB exists for hotel but category suite is missing
+12727,Maritim Jolie Ville Golf & Resort,2925,1,RO,1,standard,A,7329,Stnd,Board RO exists for hotel but category standard is missing
+12727,Maritim Jolie Ville Golf & Resort,2925,1,RO,12,suite,A,7329,Suite,Board RO exists for hotel but category suite is missing
+12727,Maritim Jolie Ville Golf & Resort,2925,2,BB,1,standard,A,7330,Stnd,Board BB exists for hotel but category standard is missing
+12727,Maritim Jolie Ville Golf & Resort,2925,2,BB,12,suite,A,7330,Suite,Board BB exists for hotel but category suite is missing
+12821,Brown Lighthouse Eilat,3062,1,RO,4,deluxe,A,7763,DLX,Board RO exists for hotel but category deluxe is missing
+12821,Brown Lighthouse Eilat,3062,1,RO,12,suite,A,7763,Suite,Board RO exists for hotel but category suite is missing
+12821,Brown Lighthouse Eilat,3062,2,BB,4,deluxe,A,7764,DLX,Board BB exists for hotel but category deluxe is missing
+12821,Brown Lighthouse Eilat,3062,2,BB,12,suite,A,7764,Suite,Board BB exists for hotel but category suite is missing
+12824,Brown Eilat,3060,1,RO,2,superior,A,7760,SPR,Board RO exists for hotel but category superior is missing
+12824,Brown Eilat,3060,1,RO,4,deluxe,A,7760,DLX,Board RO exists for hotel but category deluxe is missing
+12824,Brown Eilat,3060,1,RO,12,suite,A,7760,Suite,Board RO exists for hotel but category suite is missing
+12824,Brown Eilat,3060,2,BB,2,superior,A,7761,SPR,Board BB exists for hotel but category superior is missing
+12824,Brown Eilat,3060,2,BB,4,deluxe,A,7761,DLX,Board BB exists for hotel but category deluxe is missing
+12824,Brown Eilat,3060,2,BB,12,suite,A,7761,Suite,Board BB exists for hotel but category suite is missing
+12915,Sea Net,2837,2,BB,12,suite,A,7185,Suite,Board BB exists for hotel but category suite is missing
+12916,Shalom hotel & Relax,2828,1,RO,4,deluxe,A,7139,DLX,Board RO exists for hotel but category deluxe is missing
+12916,Shalom hotel & Relax,2828,1,RO,12,suite,A,7139,Suite,Board RO exists for hotel but category suite is missing
+12916,Shalom hotel & Relax,2828,2,BB,4,deluxe,A,7140,DLX,Board BB exists for hotel but category deluxe is missing
+12916,Shalom hotel & Relax,2828,2,BB,12,suite,A,7140,Suite,Board BB exists for hotel but category suite is missing
+14702,Vital,2832,1,RO,2,superior,A,7147,SPR,Board RO exists for hotel but category superior is missing
+14702,Vital,2832,1,RO,4,deluxe,A,7147,DLX,Board RO exists for hotel but category deluxe is missing
+14702,Vital,2832,1,RO,12,suite,A,7147,Suite,Board RO exists for hotel but category suite is missing
+14702,Vital,2832,2,BB,2,superior,A,7148,SPR,Board BB exists for hotel but category superior is missing
+14702,Vital,2832,2,BB,4,deluxe,A,7148,DLX,Board BB exists for hotel but category deluxe is missing
+14702,Vital,2832,2,BB,12,suite,A,7148,Suite,Board BB exists for hotel but category suite is missing
+14760,Grand Palladium Palace Resort & Spa,2948,1,RO,2,superior,A,7378,SPR,Board RO exists for hotel but category superior is missing
+14760,Grand Palladium Palace Resort & Spa,2948,1,RO,12,suite,A,7378,Suite,Board RO exists for hotel but category suite is missing
+14760,Grand Palladium Palace Resort & Spa,2948,5,AI,2,superior,A,7392,SPR,Board AI exists for hotel but category superior is missing
+14760,Grand Palladium Palace Resort & Spa,2948,5,AI,12,suite,A,7392,Suite,Board AI exists for hotel but category suite is missing
+15012,The Hoxton Shoreditch,2857,1,RO,2,superior,A,7187,SPR,Board RO exists for hotel but category superior is missing
+15012,The Hoxton Shoreditch,2857,1,RO,4,deluxe,A,7187,DLX,Board RO exists for hotel but category deluxe is missing
+15012,The Hoxton Shoreditch,2857,1,RO,12,suite,A,7187,Suite,Board RO exists for hotel but category suite is missing
+15156,Mandeville,2848,1,RO,4,deluxe,A,7165,DLX,Board RO exists for hotel but category deluxe is missing
+15156,Mandeville,2848,1,RO,12,suite,A,7165,Suite,Board RO exists for hotel but category suite is missing
+15156,Mandeville,2848,2,BB,4,deluxe,A,7166,DLX,Board BB exists for hotel but category deluxe is missing
+15156,Mandeville,2848,2,BB,12,suite,A,7166,Suite,Board BB exists for hotel but category suite is missing
+15906,Eden Opera Hotel,2980,1,RO,4,deluxe,A,7526,DLX,Board RO exists for hotel but category deluxe is missing
+15906,Eden Opera Hotel,2980,1,RO,12,suite,A,7526,Suite,Board RO exists for hotel but category suite is missing
+15906,Eden Opera Hotel,2980,2,BB,4,deluxe,A,7527,DLX,Board BB exists for hotel but category deluxe is missing
+15906,Eden Opera Hotel,2980,2,BB,12,suite,A,7527,Suite,Board BB exists for hotel but category suite is missing
+16711,Peyris Opera,2975,1,RO,4,deluxe,A,7534,DLX,Board RO exists for hotel but category deluxe is missing
+16711,Peyris Opera,2975,1,RO,12,suite,A,7534,Suite,Board RO exists for hotel but category suite is missing
+16711,Peyris Opera,2975,2,BB,4,deluxe,A,7535,DLX,Board BB exists for hotel but category deluxe is missing
+16711,Peyris Opera,2975,2,BB,12,suite,A,7535,Suite,Board BB exists for hotel but category suite is missing
+16861,Hotel Plaza Elysees (Ex. BEST WESTERN Plaza Elysees),3027,1,RO,4,deluxe,A,7676,DLX,Board RO exists for hotel but category deluxe is missing
+16861,Hotel Plaza Elysees (Ex. BEST WESTERN Plaza Elysees),3027,1,RO,12,suite,A,7676,Suite,Board RO exists for hotel but category suite is missing
+16861,Hotel Plaza Elysees (Ex. BEST WESTERN Plaza Elysees),3027,2,BB,4,deluxe,A,7677,DLX,Board BB exists for hotel but category deluxe is missing
+16861,Hotel Plaza Elysees (Ex. BEST WESTERN Plaza Elysees),3027,2,BB,12,suite,A,7677,Suite,Board BB exists for hotel but category suite is missing
+16864,Princesse Caroline,2974,1,RO,2,superior,A,7536,SPR,Board RO exists for hotel but category superior is missing
+16864,Princesse Caroline,2974,1,RO,4,deluxe,A,7536,DLX,Board RO exists for hotel but category deluxe is missing
+16864,Princesse Caroline,2974,1,RO,12,suite,A,7536,Suite,Board RO exists for hotel but category suite is missing
+16864,Princesse Caroline,2974,2,BB,2,superior,A,7899,SPR,Board BB exists for hotel but category superior is missing
+16864,Princesse Caroline,2974,2,BB,4,deluxe,A,7899,DLX,Board BB exists for hotel but category deluxe is missing
+16864,Princesse Caroline,2974,2,BB,12,suite,A,7899,Suite,Board BB exists for hotel but category suite is missing
+16873,Hotel Marceau Champs Elysees,3018,1,RO,4,deluxe,A,7692,DLX,Board RO exists for hotel but category deluxe is missing
+16873,Hotel Marceau Champs Elysees,3018,1,RO,12,suite,A,7692,Suite,Board RO exists for hotel but category suite is missing
+16877,Hotel Park Lane Paris,3024,1,RO,4,deluxe,A,7682,DLX,Board RO exists for hotel but category deluxe is missing
+16877,Hotel Park Lane Paris,3024,1,RO,12,suite,A,7682,Suite,Board RO exists for hotel but category suite is missing
+16877,Hotel Park Lane Paris,3024,2,BB,4,deluxe,A,7683,DLX,Board BB exists for hotel but category deluxe is missing
+16877,Hotel Park Lane Paris,3024,2,BB,12,suite,A,7683,Suite,Board BB exists for hotel but category suite is missing
+17098,Heritance Kandalama,2786,2,BB,2,superior,A,7059,SPR,Board BB exists for hotel but category superior is missing
+17098,Heritance Kandalama,2786,2,BB,4,deluxe,A,7059,DLX,Board BB exists for hotel but category deluxe is missing
+17098,Heritance Kandalama,2786,2,BB,12,suite,A,7059,Suite,Board BB exists for hotel but category suite is missing
+19977,Fontainebleau Miami Beach,5268,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+19977,Fontainebleau Miami Beach,5268,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+19977,Fontainebleau Miami Beach,5268,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+20613,Park Grand London Kensington,2797,1,RO,12,suite,A,7088,Suite,Board RO exists for hotel but category suite is missing
+20613,Park Grand London Kensington,2797,2,BB,12,suite,A,7087,Suite,Board BB exists for hotel but category suite is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,1,RO,2,superior,A,12045,SPR,Board RO exists for hotel but category superior is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,1,RO,4,deluxe,A,12045,DLX,Board RO exists for hotel but category deluxe is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,2,BB,1,standard,A,13170,Stnd,Board BB exists for hotel but category standard is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,2,BB,2,superior,A,13170,SPR,Board BB exists for hotel but category superior is missing
+20702,Embassy Suites by Hilton Miami International Airport,5081,2,BB,4,deluxe,A,13170,DLX,Board BB exists for hotel but category deluxe is missing
+20706,Hilton Miami Airport,5083,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+20706,Hilton Miami Airport,5083,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+20706,Hilton Miami Airport,5083,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+21106,Isrotel Tower Tel Aviv Hotel,2840,1,RO,12,suite,A,7179,Suite,Board RO exists for hotel but category suite is missing
+21106,Isrotel Tower Tel Aviv Hotel,2840,2,BB,12,suite,A,7180,Suite,Board BB exists for hotel but category suite is missing
+21162,Trianon Rive Gauche (Ex. Best Western Trianon Rive Gauche),3021,1,RO,4,deluxe,A,7687,DLX,Board RO exists for hotel but category deluxe is missing
+21162,Trianon Rive Gauche (Ex. Best Western Trianon Rive Gauche),3021,1,RO,12,suite,A,7687,Suite,Board RO exists for hotel but category suite is missing
+21162,Trianon Rive Gauche (Ex. Best Western Trianon Rive Gauche),3021,2,BB,4,deluxe,A,7688,DLX,Board BB exists for hotel but category deluxe is missing
+21162,Trianon Rive Gauche (Ex. Best Western Trianon Rive Gauche),3021,2,BB,12,suite,A,7688,Suite,Board BB exists for hotel but category suite is missing
+21842,Miami International Airport Hotel,5275,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+21842,Miami International Airport Hotel,5275,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+21842,Miami International Airport Hotel,5275,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+22034,Hilton Bentley Miami South Beach,5093,1,RO,2,superior,A,12062,SPR,Board RO exists for hotel but category superior is missing
+24982,Hilton Miami Downtown,5084,1,RO,2,superior,A,12048,SPR,Board RO exists for hotel but category superior is missing
+24982,Hilton Miami Downtown,5084,1,RO,4,deluxe,A,12048,DLX,Board RO exists for hotel but category deluxe is missing
+24982,Hilton Miami Downtown,5084,2,BB,2,superior,A,13173,SPR,Board BB exists for hotel but category superior is missing
+24982,Hilton Miami Downtown,5084,2,BB,4,deluxe,A,13173,DLX,Board BB exists for hotel but category deluxe is missing
+24989,Hotel Riu Plaza Miami Beach,5109,1,RO,2,superior,A,12077,SPR,Board RO exists for hotel but category superior is missing
+24989,Hotel Riu Plaza Miami Beach,5109,1,RO,12,suite,A,12077,Suite,Board RO exists for hotel but category suite is missing
+26733,Barcelo Imagine (Ex. Foxa 32),2950,1,RO,2,superior,A,7380,SPR,Board RO exists for hotel but category superior is missing
+26733,Barcelo Imagine (Ex. Foxa 32),2950,1,RO,12,suite,A,7380,Suite,Board RO exists for hotel but category suite is missing
+26733,Barcelo Imagine (Ex. Foxa 32),2950,2,BB,2,superior,A,7381,SPR,Board BB exists for hotel but category superior is missing
+26733,Barcelo Imagine (Ex. Foxa 32),2950,2,BB,12,suite,A,7381,Suite,Board BB exists for hotel but category suite is missing
+26904,Victoria Palace,3029,1,RO,4,deluxe,A,7673,DLX,Board RO exists for hotel but category deluxe is missing
+26904,Victoria Palace,3029,1,RO,12,suite,A,7673,Suite,Board RO exists for hotel but category suite is missing
+26904,Victoria Palace,3029,2,BB,4,deluxe,A,7674,DLX,Board BB exists for hotel but category deluxe is missing
+26904,Victoria Palace,3029,2,BB,12,suite,A,7674,Suite,Board BB exists for hotel but category suite is missing
+26914,Moderne St Germain,2983,1,RO,4,deluxe,A,7606,DLX,Board RO exists for hotel but category deluxe is missing
+26914,Moderne St Germain,2983,1,RO,12,suite,A,7606,Suite,Board RO exists for hotel but category suite is missing
+26914,Moderne St Germain,2983,2,BB,4,deluxe,A,7607,DLX,Board BB exists for hotel but category deluxe is missing
+26914,Moderne St Germain,2983,2,BB,12,suite,A,7607,Suite,Board BB exists for hotel but category suite is missing
+27493,Hotel Du Vieux Saule,2989,1,RO,4,deluxe,A,7596,DLX,Board RO exists for hotel but category deluxe is missing
+27493,Hotel Du Vieux Saule,2989,1,RO,12,suite,A,7596,Suite,Board RO exists for hotel but category suite is missing
+27493,Hotel Du Vieux Saule,2989,2,BB,4,deluxe,A,7597,DLX,Board BB exists for hotel but category deluxe is missing
+27493,Hotel Du Vieux Saule,2989,2,BB,12,suite,A,7597,Suite,Board BB exists for hotel but category suite is missing
+28636,PARK PLAZA COUNTY HALL,2798,1,RO,4,deluxe,A,7089,DLX,Board RO exists for hotel but category deluxe is missing
+28636,PARK PLAZA COUNTY HALL,2798,1,RO,12,suite,A,7089,Suite,Board RO exists for hotel but category suite is missing
+28636,PARK PLAZA COUNTY HALL,2798,2,BB,4,deluxe,A,7090,DLX,Board BB exists for hotel but category deluxe is missing
+28636,PARK PLAZA COUNTY HALL,2798,2,BB,12,suite,A,7090,Suite,Board BB exists for hotel but category suite is missing
+28757,The Palazzo Resort Hotel Casino,2955,1,RO,2,superior,A,7373,SPR,Board RO exists for hotel but category superior is missing
+31226,Kimpton Angler's Hotel,5136,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+31226,Kimpton Angler's Hotel,5136,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+31226,Kimpton Angler's Hotel,5136,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+31299,54 Queen's Gate Hotel,2799,1,RO,2,superior,A,7091,SPR,Board RO exists for hotel but category superior is missing
+31299,54 Queen's Gate Hotel,2799,1,RO,12,suite,A,7091,Suite,Board RO exists for hotel but category suite is missing
+31299,54 Queen's Gate Hotel,2799,2,BB,2,superior,A,7092,SPR,Board BB exists for hotel but category superior is missing
+31299,54 Queen's Gate Hotel,2799,2,BB,12,suite,A,7092,Suite,Board BB exists for hotel but category suite is missing
+31433,Metropole South Beach,5141,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+31433,Metropole South Beach,5141,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+31433,Metropole South Beach,5141,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+31709,Viajero Miami,5111,1,RO,12,suite,A,12079,Suite,Board RO exists for hotel but category suite is missing
+32687,Hotel Chelsea,5064,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+32687,Hotel Chelsea,5064,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+32687,Hotel Chelsea,5064,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+36281,Best Western Grand Hotel De LUnivers,3022,1,RO,2,superior,A,7686,SPR,Board RO exists for hotel but category superior is missing
+36281,Best Western Grand Hotel De LUnivers,3022,1,RO,12,suite,A,7686,Suite,Board RO exists for hotel but category suite is missing
+36919,Hotel Duquesne Eiffel,3023,1,RO,4,deluxe,A,7684,DLX,Board RO exists for hotel but category deluxe is missing
+36919,Hotel Duquesne Eiffel,3023,1,RO,12,suite,A,7684,Suite,Board RO exists for hotel but category suite is missing
+36919,Hotel Duquesne Eiffel,3023,2,BB,4,deluxe,A,7685,DLX,Board BB exists for hotel but category deluxe is missing
+36919,Hotel Duquesne Eiffel,3023,2,BB,12,suite,A,7685,Suite,Board BB exists for hotel but category suite is missing
+46256,Renaissance Golden View Beach Resort,2919,1,RO,2,superior,A,7321,SPR,Board RO exists for hotel but category superior is missing
+46256,Renaissance Golden View Beach Resort,2919,1,RO,4,deluxe,A,7321,DLX,Board RO exists for hotel but category deluxe is missing
+46256,Renaissance Golden View Beach Resort,2919,2,BB,2,superior,A,7322,SPR,Board BB exists for hotel but category superior is missing
+46256,Renaissance Golden View Beach Resort,2919,2,BB,4,deluxe,A,7322,DLX,Board BB exists for hotel but category deluxe is missing
+46256,Renaissance Golden View Beach Resort,2919,3,HB,2,superior,A,7847,SPR,Board HB exists for hotel but category superior is missing
+46256,Renaissance Golden View Beach Resort,2919,3,HB,4,deluxe,A,7847,DLX,Board HB exists for hotel but category deluxe is missing
+48442,Iberotel Palace,2930,5,AI,1,standard,A,7334,Stnd,Board AI exists for hotel but category standard is missing
+48442,Iberotel Palace,2930,5,AI,4,deluxe,A,7334,DLX,Board AI exists for hotel but category deluxe is missing
+49182,The Westin,2773,1,RO,2,superior,A,7078,SPR,Board RO exists for hotel but category superior is missing
+49182,The Westin,2773,1,RO,12,suite,A,7078,Suite,Board RO exists for hotel but category suite is missing
+49182,The Westin,2773,2,BB,2,superior,A,7079,SPR,Board BB exists for hotel but category superior is missing
+49182,The Westin,2773,2,BB,12,suite,A,7079,Suite,Board BB exists for hotel but category suite is missing
+50771,Park Plaza Westminster Bridge,2851,1,RO,4,deluxe,A,7159,DLX,Board RO exists for hotel but category deluxe is missing
+50771,Park Plaza Westminster Bridge,2851,1,RO,12,suite,A,7159,Suite,Board RO exists for hotel but category suite is missing
+50771,Park Plaza Westminster Bridge,2851,2,BB,4,deluxe,A,7160,DLX,Board BB exists for hotel but category deluxe is missing
+50771,Park Plaza Westminster Bridge,2851,2,BB,12,suite,A,7160,Suite,Board BB exists for hotel but category suite is missing
+51200,H10 LONDON WATERLOO,2824,1,RO,2,superior,A,7135,SPR,Board RO exists for hotel but category superior is missing
+51200,H10 LONDON WATERLOO,2824,1,RO,12,suite,A,7135,Suite,Board RO exists for hotel but category suite is missing
+51200,H10 LONDON WATERLOO,2824,2,BB,2,superior,A,7136,SPR,Board BB exists for hotel but category superior is missing
+51200,H10 LONDON WATERLOO,2824,2,BB,12,suite,A,7136,Suite,Board BB exists for hotel but category suite is missing
+51284,The Palace Downtown Dubai,2900,1,RO,2,superior,A,7229,SPR,Board RO exists for hotel but category superior is missing
+51284,The Palace Downtown Dubai,2900,2,BB,2,superior,A,7230,SPR,Board BB exists for hotel but category superior is missing
+54309,Chamberlain Hotel,2823,2,BB,1,standard,A,7134,Stnd,Board BB exists for hotel but category standard is missing
+54309,Chamberlain Hotel,2823,2,BB,2,superior,A,7134,SPR,Board BB exists for hotel but category superior is missing
+54309,Chamberlain Hotel,2823,2,BB,12,suite,A,7134,Suite,Board BB exists for hotel but category suite is missing
+56061,Sea Executive Suites,2830,1,RO,2,superior,A,7143,SPR,Board RO exists for hotel but category superior is missing
+56061,Sea Executive Suites,2830,1,RO,4,deluxe,A,7143,DLX,Board RO exists for hotel but category deluxe is missing
+56061,Sea Executive Suites,2830,1,RO,12,suite,A,7143,Suite,Board RO exists for hotel but category suite is missing
+56061,Sea Executive Suites,2830,2,BB,2,superior,A,7144,SPR,Board BB exists for hotel but category superior is missing
+56061,Sea Executive Suites,2830,2,BB,4,deluxe,A,7144,DLX,Board BB exists for hotel but category deluxe is missing
+56061,Sea Executive Suites,2830,2,BB,12,suite,A,7144,Suite,Board BB exists for hotel but category suite is missing
+64309,Savoy Hotel,5103,1,RO,2,superior,A,12071,SPR,Board RO exists for hotel but category superior is missing
+64309,Savoy Hotel,5103,2,BB,2,superior,A,13155,SPR,Board BB exists for hotel but category superior is missing
+64390,Crystal Beach Suites Hotel,5100,1,RO,1,standard,A,12069,Stnd,Board RO exists for hotel but category standard is missing
+64390,Crystal Beach Suites Hotel,5100,1,RO,2,superior,A,12069,SPR,Board RO exists for hotel but category superior is missing
+64390,Crystal Beach Suites Hotel,5100,1,RO,4,deluxe,A,12069,DLX,Board RO exists for hotel but category deluxe is missing
+65895,The Address Dubai Mall,2884,1,RO,2,superior,A,7237,SPR,Board RO exists for hotel but category superior is missing
+65895,The Address Dubai Mall,2884,1,RO,12,suite,A,7237,Suite,Board RO exists for hotel but category suite is missing
+65895,The Address Dubai Mall,2884,2,BB,2,superior,A,7238,SPR,Board BB exists for hotel but category superior is missing
+65895,The Address Dubai Mall,2884,2,BB,12,suite,A,7238,Suite,Board BB exists for hotel but category suite is missing
+66737,Cavalier Hotel,5113,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+66737,Cavalier Hotel,5113,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+66737,Cavalier Hotel,5113,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+66811,The Westbourne Hyde Park [Ex. Royal Court Apartments],2817,1,RO,1,standard,A,7124,Stnd,Board RO exists for hotel but category standard is missing
+66811,The Westbourne Hyde Park [Ex. Royal Court Apartments],2817,1,RO,2,superior,A,7124,SPR,Board RO exists for hotel but category superior is missing
+67387,HOLIDAY INN EXPRESS HOTEL & SUITES MIAMI,5130,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+67387,HOLIDAY INN EXPRESS HOTEL & SUITES MIAMI,5130,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+67387,HOLIDAY INN EXPRESS HOTEL & SUITES MIAMI,5130,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+68023,Best Western Premier Au Manoir Saint Germain De Pres,2964,1,RO,1,standard,A,7552,Stnd,Board RO exists for hotel but category standard is missing
+68023,Best Western Premier Au Manoir Saint Germain De Pres,2964,1,RO,12,suite,A,7552,Suite,Board RO exists for hotel but category suite is missing
+68833,Grand Beach Hotel Miami,5124,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+68833,Grand Beach Hotel Miami,5124,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+68833,Grand Beach Hotel Miami,5124,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+70995,"MB Hotel, Trademark Collection by Wyndham",5105,1,RO,2,superior,A,12073,SPR,Board RO exists for hotel but category superior is missing
+71106,OLIVER PLAZA,2816,1,RO,2,superior,A,7122,SPR,Board RO exists for hotel but category superior is missing
+71106,OLIVER PLAZA,2816,1,RO,4,deluxe,A,7122,DLX,Board RO exists for hotel but category deluxe is missing
+71106,OLIVER PLAZA,2816,1,RO,12,suite,A,7122,Suite,Board RO exists for hotel but category suite is missing
+71106,OLIVER PLAZA,2816,2,BB,2,superior,A,7123,SPR,Board BB exists for hotel but category superior is missing
+71106,OLIVER PLAZA,2816,2,BB,4,deluxe,A,7123,DLX,Board BB exists for hotel but category deluxe is missing
+71106,OLIVER PLAZA,2816,2,BB,12,suite,A,7123,Suite,Board BB exists for hotel but category suite is missing
+71423,Queen'S Gate Hotel [Ex. Abba Queens Gate Hotel],2859,1,RO,12,suite,A,7190,Suite,Board RO exists for hotel but category suite is missing
+71423,Queen'S Gate Hotel [Ex. Abba Queens Gate Hotel],2859,2,BB,12,suite,A,7191,Suite,Board BB exists for hotel but category suite is missing
+78266,Atlantic,2978,1,RO,4,deluxe,A,7530,DLX,Board RO exists for hotel but category deluxe is missing
+78266,Atlantic,2978,1,RO,12,suite,A,7530,Suite,Board RO exists for hotel but category suite is missing
+79794,Prince De Conde,3032,1,RO,1,standard,A,7668,Stnd,Board RO exists for hotel but category standard is missing
+79794,Prince De Conde,3032,1,RO,4,deluxe,A,7668,DLX,Board RO exists for hotel but category deluxe is missing
+79914,Hotel France d'Antin Opéra,3034,1,RO,4,deluxe,A,7665,DLX,Board RO exists for hotel but category deluxe is missing
+79914,Hotel France d'Antin Opéra,3034,1,RO,12,suite,A,7665,Suite,Board RO exists for hotel but category suite is missing
+80408,THE SANCTUARY HOUSE,2807,1,RO,2,superior,A,7115,SPR,Board RO exists for hotel but category superior is missing
+80408,THE SANCTUARY HOUSE,2807,1,RO,12,suite,A,7115,Suite,Board RO exists for hotel but category suite is missing
+80408,THE SANCTUARY HOUSE,2807,2,BB,2,superior,A,7116,SPR,Board BB exists for hotel but category superior is missing
+80408,THE SANCTUARY HOUSE,2807,2,BB,12,suite,A,7116,Suite,Board BB exists for hotel but category suite is missing
+82138,Baron Palms Resort Sharm El Sheikh,2927,5,AI,1,standard,A,7332,Stnd,Board AI exists for hotel but category standard is missing
+82138,Baron Palms Resort Sharm El Sheikh,2927,5,AI,4,deluxe,A,7332,DLX,Board AI exists for hotel but category deluxe is missing
+85535,Westgate Las Vegas Hotel and Casino - The LVH,2945,1,RO,2,superior,A,7372,SPR,Board RO exists for hotel but category superior is missing
+85535,Westgate Las Vegas Hotel and Casino - The LVH,2945,1,RO,12,suite,A,7372,Suite,Board RO exists for hotel but category suite is missing
+86005,Moris Hotel Paris/MORIS GRANDS BOULEVARDS,2976,1,RO,4,deluxe,A,7532,DLX,Board RO exists for hotel but category deluxe is missing
+86005,Moris Hotel Paris/MORIS GRANDS BOULEVARDS,2976,1,RO,12,suite,A,7532,Suite,Board RO exists for hotel but category suite is missing
+86005,Moris Hotel Paris/MORIS GRANDS BOULEVARDS,2976,2,BB,4,deluxe,A,7533,DLX,Board BB exists for hotel but category deluxe is missing
+86005,Moris Hotel Paris/MORIS GRANDS BOULEVARDS,2976,2,BB,12,suite,A,7533,Suite,Board BB exists for hotel but category suite is missing
+87197,The Catalina Hotel & Beach Club,5277,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+87197,The Catalina Hotel & Beach Club,5277,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+87197,The Catalina Hotel & Beach Club,5277,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+88064,Cosmopolitan of Las Vegas,2954,1,RO,2,superior,A,7374,SPR,Board RO exists for hotel but category superior is missing
+88064,Cosmopolitan of Las Vegas,2954,1,RO,12,suite,A,7374,Suite,Board RO exists for hotel but category suite is missing
+88282,"Sole Miami, A Noble House Resort",5104,1,RO,2,superior,A,12072,SPR,Board RO exists for hotel but category superior is missing
+88282,"Sole Miami, A Noble House Resort",5104,1,RO,4,deluxe,A,12072,DLX,Board RO exists for hotel but category deluxe is missing
+90340,Jumeirah Emirates Towers,2866,1,RO,2,superior,A,7273,SPR,Board RO exists for hotel but category superior is missing
+90340,Jumeirah Emirates Towers,2866,1,RO,12,suite,A,7273,Suite,Board RO exists for hotel but category suite is missing
+90340,Jumeirah Emirates Towers,2866,2,BB,2,superior,A,7274,SPR,Board BB exists for hotel but category superior is missing
+90340,Jumeirah Emirates Towers,2866,2,BB,12,suite,A,7274,Suite,Board BB exists for hotel but category suite is missing
+92657,Radisson Water Garden,2772,1,RO,2,superior,A,7080,SPR,Board RO exists for hotel but category superior is missing
+92657,Radisson Water Garden,2772,1,RO,4,deluxe,A,7080,DLX,Board RO exists for hotel but category deluxe is missing
+92657,Radisson Water Garden,2772,1,RO,12,suite,A,7080,Suite,Board RO exists for hotel but category suite is missing
+92657,Radisson Water Garden,2772,2,BB,2,superior,A,7085,SPR,Board BB exists for hotel but category superior is missing
+92657,Radisson Water Garden,2772,2,BB,4,deluxe,A,7085,DLX,Board BB exists for hotel but category deluxe is missing
+92657,Radisson Water Garden,2772,2,BB,12,suite,A,7085,Suite,Board BB exists for hotel but category suite is missing
+95149,"voco Dubai, an IHG Hotel [ex. Royal Hotel / Radisson Royal Hotel / JAL Tower Dubai]",2880,1,RO,2,superior,A,7245,SPR,Board RO exists for hotel but category superior is missing
+95149,"voco Dubai, an IHG Hotel [ex. Royal Hotel / Radisson Royal Hotel / JAL Tower Dubai]",2880,1,RO,12,suite,A,7245,Suite,Board RO exists for hotel but category suite is missing
+95149,"voco Dubai, an IHG Hotel [ex. Royal Hotel / Radisson Royal Hotel / JAL Tower Dubai]",2880,2,BB,2,superior,A,7246,SPR,Board BB exists for hotel but category superior is missing
+95149,"voco Dubai, an IHG Hotel [ex. Royal Hotel / Radisson Royal Hotel / JAL Tower Dubai]",2880,2,BB,12,suite,A,7246,Suite,Board BB exists for hotel but category suite is missing
+95797,"The Ritz-Carlton, Dubai International Financial Centre",2887,1,RO,2,superior,A,7217,SPR,Board RO exists for hotel but category superior is missing
+95797,"The Ritz-Carlton, Dubai International Financial Centre",2887,1,RO,12,suite,A,7217,Suite,Board RO exists for hotel but category suite is missing
+95797,"The Ritz-Carlton, Dubai International Financial Centre",2887,2,BB,2,superior,A,7218,SPR,Board BB exists for hotel but category superior is missing
+95797,"The Ritz-Carlton, Dubai International Financial Centre",2887,2,BB,12,suite,A,7218,Suite,Board BB exists for hotel but category suite is missing
+95822,Armani Hotel Dubai,2899,1,RO,2,superior,A,7233,SPR,Board RO exists for hotel but category superior is missing
+95822,Armani Hotel Dubai,2899,1,RO,12,suite,A,7233,Suite,Board RO exists for hotel but category suite is missing
+95822,Armani Hotel Dubai,2899,2,BB,2,superior,A,7234,SPR,Board BB exists for hotel but category superior is missing
+95822,Armani Hotel Dubai,2899,2,BB,12,suite,A,7234,Suite,Board BB exists for hotel but category suite is missing
+98597,Tropitel Naama Bay,2924,1,RO,4,deluxe,A,7327,DLX,Board RO exists for hotel but category deluxe is missing
+98597,Tropitel Naama Bay,2924,1,RO,12,suite,A,7327,Suite,Board RO exists for hotel but category suite is missing
+98597,Tropitel Naama Bay,2924,2,BB,4,deluxe,A,7328,DLX,Board BB exists for hotel but category deluxe is missing
+98597,Tropitel Naama Bay,2924,2,BB,12,suite,A,7328,Suite,Board BB exists for hotel but category suite is missing
+113912,Sharm Dreams Resort,2922,2,BB,1,standard,A,7326,Stnd,Board BB exists for hotel but category standard is missing
+113912,Sharm Dreams Resort,2922,2,BB,12,suite,A,7326,Suite,Board BB exists for hotel but category suite is missing
+113912,Sharm Dreams Resort,2922,5,AI,1,standard,A,7325,Stnd,Board AI exists for hotel but category standard is missing
+113912,Sharm Dreams Resort,2922,5,AI,12,suite,A,7325,Suite,Board AI exists for hotel but category suite is missing
+117130,Hotel le Clement,2965,1,RO,4,deluxe,A,7550,DLX,Board RO exists for hotel but category deluxe is missing
+117130,Hotel le Clement,2965,1,RO,12,suite,A,7550,Suite,Board RO exists for hotel but category suite is missing
+117130,Hotel le Clement,2965,2,BB,4,deluxe,A,7551,DLX,Board BB exists for hotel but category deluxe is missing
+117130,Hotel le Clement,2965,2,BB,12,suite,A,7551,Suite,Board BB exists for hotel but category suite is missing
+117316,RELAIS HOTEL DU VIEUX PARIS,2988,1,RO,1,standard,A,7598,Stnd,Board RO exists for hotel but category standard is missing
+117316,RELAIS HOTEL DU VIEUX PARIS,2988,1,RO,12,suite,A,7598,Suite,Board RO exists for hotel but category suite is missing
+117316,RELAIS HOTEL DU VIEUX PARIS,2988,2,BB,1,standard,A,7599,Stnd,Board BB exists for hotel but category standard is missing
+117316,RELAIS HOTEL DU VIEUX PARIS,2988,2,BB,12,suite,A,7599,Suite,Board BB exists for hotel but category suite is missing
+117424,Villa Des Princes,3025,1,RO,2,superior,A,7680,SPR,Board RO exists for hotel but category superior is missing
+117424,Villa Des Princes,3025,1,RO,12,suite,A,7680,Suite,Board RO exists for hotel but category suite is missing
+117424,Villa Des Princes,3025,2,BB,2,superior,A,7681,SPR,Board BB exists for hotel but category superior is missing
+117424,Villa Des Princes,3025,2,BB,12,suite,A,7681,Suite,Board BB exists for hotel but category suite is missing
+117491,FAIRWIND HOTEL & SUITES SOUTH BEACH,5089,1,RO,2,superior,A,12059,SPR,Board RO exists for hotel but category superior is missing
+117491,FAIRWIND HOTEL & SUITES SOUTH BEACH,5089,1,RO,12,suite,A,12059,Suite,Board RO exists for hotel but category suite is missing
+118069,Brown Acropol By Brown Hotels,3068,1,RO,2,superior,A,7769,SPR,Board RO exists for hotel but category superior is missing
+118069,Brown Acropol By Brown Hotels,3068,1,RO,12,suite,A,7769,Suite,Board RO exists for hotel but category suite is missing
+118069,Brown Acropol By Brown Hotels,3068,2,BB,2,superior,A,7770,SPR,Board BB exists for hotel but category superior is missing
+118069,Brown Acropol By Brown Hotels,3068,2,BB,12,suite,A,7770,Suite,Board BB exists for hotel but category suite is missing
+118069,Brown Acropol By Brown Hotels,3068,3,HB,2,superior,A,7771,SPR,Board HB exists for hotel but category superior is missing
+118069,Brown Acropol By Brown Hotels,3068,3,HB,12,suite,A,7771,Suite,Board HB exists for hotel but category suite is missing
+120499,Liber - Seashore Suites,2835,1,RO,2,superior,A,7153,SPR,Board RO exists for hotel but category superior is missing
+120499,Liber - Seashore Suites,2835,1,RO,12,suite,A,7153,Suite,Board RO exists for hotel but category suite is missing
+124995,MONTANA HOTEL,2805,1,RO,2,superior,A,7111,SPR,Board RO exists for hotel but category superior is missing
+124995,MONTANA HOTEL,2805,1,RO,4,deluxe,A,7111,DLX,Board RO exists for hotel but category deluxe is missing
+124995,MONTANA HOTEL,2805,1,RO,12,suite,A,7111,Suite,Board RO exists for hotel but category suite is missing
+124995,MONTANA HOTEL,2805,2,BB,2,superior,A,7112,SPR,Board BB exists for hotel but category superior is missing
+124995,MONTANA HOTEL,2805,2,BB,4,deluxe,A,7112,DLX,Board BB exists for hotel but category deluxe is missing
+124995,MONTANA HOTEL,2805,2,BB,12,suite,A,7112,Suite,Board BB exists for hotel but category suite is missing
+132492,Hotel Saint-Louis en l Isle,2998,1,RO,4,deluxe,A,7584,DLX,Board RO exists for hotel but category deluxe is missing
+132492,Hotel Saint-Louis en l Isle,2998,1,RO,12,suite,A,7584,Suite,Board RO exists for hotel but category suite is missing
+132492,Hotel Saint-Louis en l Isle,2998,2,BB,4,deluxe,A,7585,DLX,Board BB exists for hotel but category deluxe is missing
+132492,Hotel Saint-Louis en l Isle,2998,2,BB,12,suite,A,7585,Suite,Board BB exists for hotel but category suite is missing
+155768,Xperience Sea Breeze Resort,2917,1,RO,2,superior,A,7319,SPR,Board RO exists for hotel but category superior is missing
+155768,Xperience Sea Breeze Resort,2917,2,BB,2,superior,A,7320,SPR,Board BB exists for hotel but category superior is missing
+156617,Maxim Tel Aviv,2834,2,BB,2,superior,A,7152,SPR,Board BB exists for hotel but category superior is missing
+156617,Maxim Tel Aviv,2834,2,BB,4,deluxe,A,7152,DLX,Board BB exists for hotel but category deluxe is missing
+156617,Maxim Tel Aviv,2834,2,BB,12,suite,A,7152,Suite,Board BB exists for hotel but category suite is missing
+161655,Brown TLV Urban Hotel ,3041,1,RO,4,deluxe,A,7730,DLX,Board RO exists for hotel but category deluxe is missing
+161655,Brown TLV Urban Hotel ,3041,1,RO,12,suite,A,7730,Suite,Board RO exists for hotel but category suite is missing
+161655,Brown TLV Urban Hotel ,3041,2,BB,4,deluxe,A,7731,DLX,Board BB exists for hotel but category deluxe is missing
+161655,Brown TLV Urban Hotel ,3041,2,BB,12,suite,A,7731,Suite,Board BB exists for hotel but category suite is missing
+172918,Abbatial Saint Germain,2986,1,RO,4,deluxe,A,7602,DLX,Board RO exists for hotel but category deluxe is missing
+172918,Abbatial Saint Germain,2986,1,RO,12,suite,A,7602,Suite,Board RO exists for hotel but category suite is missing
+172918,Abbatial Saint Germain,2986,2,BB,4,deluxe,A,7603,DLX,Board BB exists for hotel but category deluxe is missing
+172918,Abbatial Saint Germain,2986,2,BB,12,suite,A,7603,Suite,Board BB exists for hotel but category suite is missing
+173044,Hotel Vendome Saint Germain,2992,1,RO,4,deluxe,A,7590,DLX,Board RO exists for hotel but category deluxe is missing
+173044,Hotel Vendome Saint Germain,2992,1,RO,12,suite,A,7590,Suite,Board RO exists for hotel but category suite is missing
+173044,Hotel Vendome Saint Germain,2992,2,BB,4,deluxe,A,7591,DLX,Board BB exists for hotel but category deluxe is missing
+173044,Hotel Vendome Saint Germain,2992,2,BB,12,suite,A,7591,Suite,Board BB exists for hotel but category suite is missing
+173508,Cadet Hotel,5095,1,RO,2,superior,A,12064,SPR,Board RO exists for hotel but category superior is missing
+173508,Cadet Hotel,5095,1,RO,4,deluxe,A,12064,DLX,Board RO exists for hotel but category deluxe is missing
+174010,Hotel Edouard 6 - Gare Montparnasse,3026,1,RO,4,deluxe,A,7678,DLX,Board RO exists for hotel but category deluxe is missing
+174010,Hotel Edouard 6 - Gare Montparnasse,3026,1,RO,12,suite,A,7678,Suite,Board RO exists for hotel but category suite is missing
+174010,Hotel Edouard 6 - Gare Montparnasse,3026,2,BB,4,deluxe,A,7679,DLX,Board BB exists for hotel but category deluxe is missing
+174010,Hotel Edouard 6 - Gare Montparnasse,3026,2,BB,12,suite,A,7679,Suite,Board BB exists for hotel but category suite is missing
+174266,"Club Quarters, Trafalgar Square",2813,1,RO,2,superior,A,7117,SPR,Board RO exists for hotel but category superior is missing
+174266,"Club Quarters, Trafalgar Square",2813,1,RO,4,deluxe,A,7117,DLX,Board RO exists for hotel but category deluxe is missing
+174266,"Club Quarters, Trafalgar Square",2813,1,RO,12,suite,A,7117,Suite,Board RO exists for hotel but category suite is missing
+174266,"Club Quarters, Trafalgar Square",2813,2,BB,2,superior,A,7118,SPR,Board BB exists for hotel but category superior is missing
+174266,"Club Quarters, Trafalgar Square",2813,2,BB,4,deluxe,A,7118,DLX,Board BB exists for hotel but category deluxe is missing
+174266,"Club Quarters, Trafalgar Square",2813,2,BB,12,suite,A,7118,Suite,Board BB exists for hotel but category suite is missing
+179578,Select Hotel Rive Gauche,2994,1,RO,2,superior,A,7583,SPR,Board RO exists for hotel but category superior is missing
+179578,Select Hotel Rive Gauche,2994,1,RO,12,suite,A,7583,Suite,Board RO exists for hotel but category suite is missing
+181089,Hotel Maison Athénée,3036,1,RO,4,deluxe,A,7662,DLX,Board RO exists for hotel but category deluxe is missing
+181089,Hotel Maison Athénée,3036,1,RO,12,suite,A,7662,Suite,Board RO exists for hotel but category suite is missing
+181089,Hotel Maison Athénée,3036,2,BB,4,deluxe,A,7663,DLX,Board BB exists for hotel but category deluxe is missing
+181089,Hotel Maison Athénée,3036,2,BB,12,suite,A,7663,Suite,Board BB exists for hotel but category suite is missing
+190691,Hotel Le Regent Paris,3033,1,RO,4,deluxe,A,7666,DLX,Board RO exists for hotel but category deluxe is missing
+190691,Hotel Le Regent Paris,3033,1,RO,12,suite,A,7666,Suite,Board RO exists for hotel but category suite is missing
+190691,Hotel Le Regent Paris,3033,2,BB,4,deluxe,A,7667,DLX,Board BB exists for hotel but category deluxe is missing
+190691,Hotel Le Regent Paris,3033,2,BB,12,suite,A,7667,Suite,Board BB exists for hotel but category suite is missing
+190692,De Seine,3017,1,RO,4,deluxe,A,7693,DLX,Board RO exists for hotel but category deluxe is missing
+190692,De Seine,3017,1,RO,12,suite,A,7693,Suite,Board RO exists for hotel but category suite is missing
+190692,De Seine,3017,2,BB,4,deluxe,A,7694,DLX,Board BB exists for hotel but category deluxe is missing
+190692,De Seine,3017,2,BB,12,suite,A,7694,Suite,Board BB exists for hotel but category suite is missing
+190741,Hotel Royal Phare,3035,1,RO,4,deluxe,A,7664,DLX,Board RO exists for hotel but category deluxe is missing
+190741,Hotel Royal Phare,3035,1,RO,12,suite,A,7664,Suite,Board RO exists for hotel but category suite is missing
+190744,L'Ouest,2977,1,RO,4,deluxe,A,7531,DLX,Board RO exists for hotel but category deluxe is missing
+190744,L'Ouest,2977,1,RO,12,suite,A,7531,Suite,Board RO exists for hotel but category suite is missing
+193899,The Villa Casa Casuarina,5075,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+193899,The Villa Casa Casuarina,5075,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+193899,The Villa Casa Casuarina,5075,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+194274,HOTEL DUO,2993,1,RO,4,deluxe,A,7588,DLX,Board RO exists for hotel but category deluxe is missing
+194274,HOTEL DUO,2993,1,RO,12,suite,A,7588,Suite,Board RO exists for hotel but category suite is missing
+194274,HOTEL DUO,2993,2,BB,4,deluxe,A,7589,DLX,Board BB exists for hotel but category deluxe is missing
+194274,HOTEL DUO,2993,2,BB,12,suite,A,7589,Suite,Board BB exists for hotel but category suite is missing
+194365,Hotel La Perle,2966,1,RO,4,deluxe,A,7549,DLX,Board RO exists for hotel but category deluxe is missing
+194365,Hotel La Perle,2966,1,RO,12,suite,A,7549,Suite,Board RO exists for hotel but category suite is missing
+196481,Port Hotel,2827,2,BB,2,superior,A,7138,SPR,Board BB exists for hotel but category superior is missing
+196481,Port Hotel,2827,2,BB,4,deluxe,A,7138,DLX,Board BB exists for hotel but category deluxe is missing
+196481,Port Hotel,2827,2,BB,12,suite,A,7138,Suite,Board BB exists for hotel but category suite is missing
+197163,Saint-Roch,3028,1,RO,4,deluxe,A,7675,DLX,Board RO exists for hotel but category deluxe is missing
+197163,Saint-Roch,3028,1,RO,12,suite,A,7675,Suite,Board RO exists for hotel but category suite is missing
+199232,Home Latin,3030,1,RO,2,superior,A,7671,SPR,Board RO exists for hotel but category superior is missing
+199232,Home Latin,3030,1,RO,4,deluxe,A,7671,DLX,Board RO exists for hotel but category deluxe is missing
+199232,Home Latin,3030,1,RO,12,suite,A,7671,Suite,Board RO exists for hotel but category suite is missing
+199232,Home Latin,3030,2,BB,2,superior,A,7672,SPR,Board BB exists for hotel but category superior is missing
+199232,Home Latin,3030,2,BB,4,deluxe,A,7672,DLX,Board BB exists for hotel but category deluxe is missing
+199232,Home Latin,3030,2,BB,12,suite,A,7672,Suite,Board BB exists for hotel but category suite is missing
+199631,Hotel Flor Rivoli ,2968,1,RO,2,superior,A,7546,SPR,Board RO exists for hotel but category superior is missing
+199631,Hotel Flor Rivoli ,2968,1,RO,4,deluxe,A,7546,DLX,Board RO exists for hotel but category deluxe is missing
+199631,Hotel Flor Rivoli ,2968,1,RO,12,suite,A,7546,Suite,Board RO exists for hotel but category suite is missing
+205608,Arbel Suites Hotel,2833,1,RO,2,superior,A,7149,SPR,Board RO exists for hotel but category superior is missing
+205608,Arbel Suites Hotel,2833,1,RO,12,suite,A,7149,Suite,Board RO exists for hotel but category suite is missing
+205608,Arbel Suites Hotel,2833,2,BB,2,superior,A,7150,SPR,Board BB exists for hotel but category superior is missing
+205608,Arbel Suites Hotel,2833,2,BB,12,suite,A,7150,Suite,Board BB exists for hotel but category suite is missing
+208326,Hotel Emile / Sevigne Hotel Paris,2970,1,RO,4,deluxe,A,7543,DLX,Board RO exists for hotel but category deluxe is missing
+208326,Hotel Emile / Sevigne Hotel Paris,2970,1,RO,12,suite,A,7543,Suite,Board RO exists for hotel but category suite is missing
+208326,Hotel Emile / Sevigne Hotel Paris,2970,2,BB,4,deluxe,A,7544,DLX,Board BB exists for hotel but category deluxe is missing
+208326,Hotel Emile / Sevigne Hotel Paris,2970,2,BB,12,suite,A,7544,Suite,Board BB exists for hotel but category suite is missing
+210263,Apex Temple Court Hotel,2858,1,RO,4,deluxe,A,7188,DLX,Board RO exists for hotel but category deluxe is missing
+210263,Apex Temple Court Hotel,2858,1,RO,12,suite,A,7188,Suite,Board RO exists for hotel but category suite is missing
+210263,Apex Temple Court Hotel,2858,2,BB,4,deluxe,A,7189,DLX,Board BB exists for hotel but category deluxe is missing
+210263,Apex Temple Court Hotel,2858,2,BB,12,suite,A,7189,Suite,Board BB exists for hotel but category suite is missing
+212318,SENTIDO REEF OASIS SENSES,2921,1,RO,4,deluxe,A,7323,DLX,Board RO exists for hotel but category deluxe is missing
+212318,SENTIDO REEF OASIS SENSES,2921,1,RO,12,suite,A,7323,Suite,Board RO exists for hotel but category suite is missing
+212318,SENTIDO REEF OASIS SENSES,2921,5,AI,4,deluxe,A,7324,DLX,Board AI exists for hotel but category deluxe is missing
+212318,SENTIDO REEF OASIS SENSES,2921,5,AI,12,suite,A,7324,Suite,Board AI exists for hotel but category suite is missing
+215712,Mandalay Bay Hotel & Casino,2949,1,RO,2,superior,A,7379,SPR,Board RO exists for hotel but category superior is missing
+215712,Mandalay Bay Hotel & Casino,2949,1,RO,4,deluxe,A,7379,DLX,Board RO exists for hotel but category deluxe is missing
+237161,Citadines Holborn-Covent Garden London,2801,1,RO,2,superior,A,7093,SPR,Board RO exists for hotel but category superior is missing
+237161,Citadines Holborn-Covent Garden London,2801,1,RO,4,deluxe,A,7093,DLX,Board RO exists for hotel but category deluxe is missing
+237161,Citadines Holborn-Covent Garden London,2801,1,RO,12,suite,A,7093,Suite,Board RO exists for hotel but category suite is missing
+237547,Notebook Miami Beach,5102,1,RO,2,superior,A,12070,SPR,Board RO exists for hotel but category superior is missing
+237547,Notebook Miami Beach,5102,1,RO,4,deluxe,A,12070,DLX,Board RO exists for hotel but category deluxe is missing
+237547,Notebook Miami Beach,5102,1,RO,12,suite,A,12070,Suite,Board RO exists for hotel but category suite is missing
+241025,Dream South Beach,5090,1,RO,2,superior,A,12060,SPR,Board RO exists for hotel but category superior is missing
+241025,Dream South Beach,5090,1,RO,4,deluxe,A,12060,DLX,Board RO exists for hotel but category deluxe is missing
+241168,JW Marriott Marquis Hotel Dubai,2611,1,RO,2,superior,A,6962,SPR,Board RO exists for hotel but category superior is missing
+241168,JW Marriott Marquis Hotel Dubai,2611,1,RO,12,suite,A,6962,Suite,Board RO exists for hotel but category suite is missing
+241168,JW Marriott Marquis Hotel Dubai,2611,2,BB,2,superior,A,6963,SPR,Board BB exists for hotel but category superior is missing
+241168,JW Marriott Marquis Hotel Dubai,2611,2,BB,12,suite,A,6963,Suite,Board BB exists for hotel but category suite is missing
+241415,Conrad Dubai,2872,1,RO,2,superior,A,7261,SPR,Board RO exists for hotel but category superior is missing
+241415,Conrad Dubai,2872,1,RO,12,suite,A,7261,Suite,Board RO exists for hotel but category suite is missing
+241415,Conrad Dubai,2872,2,BB,2,superior,A,7262,SPR,Board BB exists for hotel but category superior is missing
+241415,Conrad Dubai,2872,2,BB,12,suite,A,7262,Suite,Board BB exists for hotel but category suite is missing
+241446,Dolphin Viliage,3009,1,RO,2,superior,A,7629,SPR,Board RO exists for hotel but category superior is missing
+241446,Dolphin Viliage,3009,1,RO,4,deluxe,A,7629,DLX,Board RO exists for hotel but category deluxe is missing
+241446,Dolphin Viliage,3009,1,RO,12,suite,A,7629,Suite,Board RO exists for hotel but category suite is missing
+241446,Dolphin Viliage,3009,2,BB,2,superior,A,7630,SPR,Board BB exists for hotel but category superior is missing
+241446,Dolphin Viliage,3009,2,BB,4,deluxe,A,7630,DLX,Board BB exists for hotel but category deluxe is missing
+241446,Dolphin Viliage,3009,2,BB,12,suite,A,7630,Suite,Board BB exists for hotel but category suite is missing
+253174,The Mercer,2792,1,RO,2,superior,A,7070,SPR,Board RO exists for hotel but category superior is missing
+253174,The Mercer,2792,1,RO,12,suite,A,7070,Suite,Board RO exists for hotel but category suite is missing
+253174,The Mercer,2792,2,BB,2,superior,A,7071,SPR,Board BB exists for hotel but category superior is missing
+253174,The Mercer,2792,2,BB,12,suite,A,7071,Suite,Board BB exists for hotel but category suite is missing
+254198,Hilton Cabana Miami Beach,5115,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+254198,Hilton Cabana Miami Beach,5115,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+254198,Hilton Cabana Miami Beach,5115,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+254941,Address Boulevard,2888,1,RO,1,standard,A,7215,Stnd,Board RO exists for hotel but category standard is missing
+254941,Address Boulevard,2888,1,RO,2,superior,A,7215,SPR,Board RO exists for hotel but category superior is missing
+254941,Address Boulevard,2888,2,BB,1,standard,A,7216,Stnd,Board BB exists for hotel but category standard is missing
+254941,Address Boulevard,2888,2,BB,2,superior,A,7216,SPR,Board BB exists for hotel but category superior is missing
+264084,Sloane Square Hotel,2861,1,RO,4,deluxe,A,7194,DLX,Board RO exists for hotel but category deluxe is missing
+264084,Sloane Square Hotel,2861,1,RO,12,suite,A,7194,Suite,Board RO exists for hotel but category suite is missing
+264523,Residence Suites,2836,1,RO,2,superior,A,7154,SPR,Board RO exists for hotel but category superior is missing
+265475,Grandior Hotel Prague,2952,1,RO,2,superior,A,7383,SPR,Board RO exists for hotel but category superior is missing
+265475,Grandior Hotel Prague,2952,1,RO,12,suite,A,7383,Suite,Board RO exists for hotel but category suite is missing
+265475,Grandior Hotel Prague,2952,2,BB,2,superior,A,7384,SPR,Board BB exists for hotel but category superior is missing
+265475,Grandior Hotel Prague,2952,2,BB,12,suite,A,7384,Suite,Board BB exists for hotel but category suite is missing
+266841,Villa Ba Moshava By Brown (Formerly Arcadia Ba'Moshava Jerusalem),3055,1,RO,4,deluxe,A,7754,DLX,Board RO exists for hotel but category deluxe is missing
+266841,Villa Ba Moshava By Brown (Formerly Arcadia Ba'Moshava Jerusalem),3055,1,RO,12,suite,A,7754,Suite,Board RO exists for hotel but category suite is missing
+266841,Villa Ba Moshava By Brown (Formerly Arcadia Ba'Moshava Jerusalem),3055,2,BB,4,deluxe,A,7755,DLX,Board BB exists for hotel but category deluxe is missing
+266841,Villa Ba Moshava By Brown (Formerly Arcadia Ba'Moshava Jerusalem),3055,2,BB,12,suite,A,7755,Suite,Board BB exists for hotel but category suite is missing
+277280,Hôtel Gaythering,5132,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+277280,Hôtel Gaythering,5132,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+277280,Hôtel Gaythering,5132,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+285709,Market House - An Atlas Boutique Hotel,2829,1,RO,4,deluxe,A,7141,DLX,Board RO exists for hotel but category deluxe is missing
+285709,Market House - An Atlas Boutique Hotel,2829,1,RO,12,suite,A,7141,Suite,Board RO exists for hotel but category suite is missing
+285709,Market House - An Atlas Boutique Hotel,2829,2,BB,4,deluxe,A,7142,DLX,Board BB exists for hotel but category deluxe is missing
+285709,Market House - An Atlas Boutique Hotel,2829,2,BB,12,suite,A,7142,Suite,Board BB exists for hotel but category suite is missing
+286236,Hotel Croydon,5131,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+286236,Hotel Croydon,5131,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+286236,Hotel Croydon,5131,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+301583,The Gates Hotel South Beach - a DoubleTree by Hilton,5140,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+301583,The Gates Hotel South Beach - a DoubleTree by Hilton,5140,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+301583,The Gates Hotel South Beach - a DoubleTree by Hilton,5140,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+301640,Hilton Garden Inn Miami South Beach,5279,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+301640,Hilton Garden Inn Miami South Beach,5279,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+301640,Hilton Garden Inn Miami South Beach,5279,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+301645,Gale South Beach,5267,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+301645,Gale South Beach,5267,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+301645,Gale South Beach,5267,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+305323,SUNRISE Arabian Beach Resort,2914,1,RO,1,standard,A,7313,Stnd,Board RO exists for hotel but category standard is missing
+305323,SUNRISE Arabian Beach Resort,2914,2,BB,1,standard,A,7314,Stnd,Board BB exists for hotel but category standard is missing
+313608,Shani Jerusalem,3015,1,RO,2,superior,A,7639,SPR,Board RO exists for hotel but category superior is missing
+313608,Shani Jerusalem,3015,1,RO,4,deluxe,A,7639,DLX,Board RO exists for hotel but category deluxe is missing
+313608,Shani Jerusalem,3015,2,BB,2,superior,A,7640,SPR,Board BB exists for hotel but category superior is missing
+313608,Shani Jerusalem,3015,2,BB,4,deluxe,A,7640,DLX,Board BB exists for hotel but category deluxe is missing
+314212,Hyatt Centric South Beach Miami (City View),5097,1,RO,2,superior,A,12066,SPR,Board RO exists for hotel but category superior is missing
+314212,Hyatt Centric South Beach Miami (City View),5097,1,RO,12,suite,A,12066,Suite,Board RO exists for hotel but category suite is missing
+316281,Esprit Saint Germain,3031,1,RO,4,deluxe,A,7669,DLX,Board RO exists for hotel but category deluxe is missing
+316281,Esprit Saint Germain,3031,1,RO,12,suite,A,7669,Suite,Board RO exists for hotel but category suite is missing
+316281,Esprit Saint Germain,3031,2,BB,4,deluxe,A,7670,DLX,Board BB exists for hotel but category deluxe is missing
+316281,Esprit Saint Germain,3031,2,BB,12,suite,A,7670,Suite,Board BB exists for hotel but category suite is missing
+318831,Brown Beach House,3046,2,BB,2,superior,A,7740,SPR,Board BB exists for hotel but category superior is missing
+318831,Brown Beach House,3046,2,BB,12,suite,A,7740,Suite,Board BB exists for hotel but category suite is missing
+321314,Taj Dubai Hotel,2863,1,RO,12,suite,A,7279,Suite,Board RO exists for hotel but category suite is missing
+321314,Taj Dubai Hotel,2863,2,BB,12,suite,A,7280,Suite,Board BB exists for hotel but category suite is missing
+324657,"Habtoor Palace, LXR Hotels & Resorts (Ex. THE ST. REGIS)",2889,1,RO,2,superior,A,7213,SPR,Board RO exists for hotel but category superior is missing
+324657,"Habtoor Palace, LXR Hotels & Resorts (Ex. THE ST. REGIS)",2889,1,RO,12,suite,A,7213,Suite,Board RO exists for hotel but category suite is missing
+324657,"Habtoor Palace, LXR Hotels & Resorts (Ex. THE ST. REGIS)",2889,2,BB,2,superior,A,7214,SPR,Board BB exists for hotel but category superior is missing
+324657,"Habtoor Palace, LXR Hotels & Resorts (Ex. THE ST. REGIS)",2889,2,BB,12,suite,A,7214,Suite,Board BB exists for hotel but category suite is missing
+333502,Eurostars Langford Hotel,5098,1,RO,2,superior,A,12067,SPR,Board RO exists for hotel but category superior is missing
+333502,Eurostars Langford Hotel,5098,2,BB,2,superior,A,13159,SPR,Board BB exists for hotel but category superior is missing
+333502,Eurostars Langford Hotel,5098,2,BB,4,deluxe,A,13159,DLX,Board BB exists for hotel but category deluxe is missing
+333502,Eurostars Langford Hotel,5098,2,BB,12,suite,A,13159,Suite,Board BB exists for hotel but category suite is missing
+348314,The Chess Hotel,2990,1,RO,4,deluxe,A,7594,DLX,Board RO exists for hotel but category deluxe is missing
+348314,The Chess Hotel,2990,1,RO,12,suite,A,7594,Suite,Board RO exists for hotel but category suite is missing
+348314,The Chess Hotel,2990,2,BB,4,deluxe,A,7595,DLX,Board BB exists for hotel but category deluxe is missing
+348314,The Chess Hotel,2990,2,BB,12,suite,A,7595,Suite,Board BB exists for hotel but category suite is missing
+356213,Park Plaza Waterloo,2820,1,RO,4,deluxe,A,7127,DLX,Board RO exists for hotel but category deluxe is missing
+356213,Park Plaza Waterloo,2820,1,RO,12,suite,A,7127,Suite,Board RO exists for hotel but category suite is missing
+356213,Park Plaza Waterloo,2820,2,BB,4,deluxe,A,7128,DLX,Board BB exists for hotel but category deluxe is missing
+356213,Park Plaza Waterloo,2820,2,BB,12,suite,A,7128,Suite,Board BB exists for hotel but category suite is missing
+360291,Villa Brown Jerusalem,3066,1,RO,2,superior,A,7765,SPR,Board RO exists for hotel but category superior is missing
+360291,Villa Brown Jerusalem,3066,1,RO,12,suite,A,7765,Suite,Board RO exists for hotel but category suite is missing
+360291,Villa Brown Jerusalem,3066,2,BB,2,superior,A,7766,SPR,Board BB exists for hotel but category superior is missing
+360291,Villa Brown Jerusalem,3066,2,BB,12,suite,A,7766,Suite,Board BB exists for hotel but category suite is missing
+361242,BROWN BEACH HOUSE DESIGN HOTEL,3073,1,RO,4,deluxe,A,7780,DLX,Board RO exists for hotel but category deluxe is missing
+361242,BROWN BEACH HOUSE DESIGN HOTEL,3073,1,RO,12,suite,A,7780,Suite,Board RO exists for hotel but category suite is missing
+361242,BROWN BEACH HOUSE DESIGN HOTEL,3073,2,BB,4,deluxe,A,7781,DLX,Board BB exists for hotel but category deluxe is missing
+361242,BROWN BEACH HOUSE DESIGN HOTEL,3073,2,BB,12,suite,A,7781,Suite,Board BB exists for hotel but category suite is missing
+361657,Hilton Dubai Al Habtoor City (Ex. Westin),2874,1,RO,2,superior,A,7256,SPR,Board RO exists for hotel but category superior is missing
+361657,Hilton Dubai Al Habtoor City (Ex. Westin),2874,1,RO,12,suite,A,7256,Suite,Board RO exists for hotel but category suite is missing
+361657,Hilton Dubai Al Habtoor City (Ex. Westin),2874,2,BB,2,superior,A,7257,SPR,Board BB exists for hotel but category superior is missing
+361657,Hilton Dubai Al Habtoor City (Ex. Westin),2874,2,BB,12,suite,A,7257,Suite,Board BB exists for hotel but category suite is missing
+361821,Sheraton Grand Hotel Dubai,2865,1,RO,2,superior,A,7275,SPR,Board RO exists for hotel but category superior is missing
+361821,Sheraton Grand Hotel Dubai,2865,1,RO,12,suite,A,7275,Suite,Board RO exists for hotel but category suite is missing
+361821,Sheraton Grand Hotel Dubai,2865,2,BB,2,superior,A,7276,SPR,Board BB exists for hotel but category superior is missing
+361821,Sheraton Grand Hotel Dubai,2865,2,BB,12,suite,A,7276,Suite,Board BB exists for hotel but category suite is missing
+376247,"La Ville Hotel & Suites CITY WALK, Dubai, Autograph Collection",2882,1,RO,2,superior,A,7241,SPR,Board RO exists for hotel but category superior is missing
+376247,"La Ville Hotel & Suites CITY WALK, Dubai, Autograph Collection",2882,1,RO,12,suite,A,7241,Suite,Board RO exists for hotel but category suite is missing
+376247,"La Ville Hotel & Suites CITY WALK, Dubai, Autograph Collection",2882,2,BB,2,superior,A,7242,SPR,Board BB exists for hotel but category superior is missing
+376247,"La Ville Hotel & Suites CITY WALK, Dubai, Autograph Collection",2882,2,BB,12,suite,A,7242,Suite,Board BB exists for hotel but category suite is missing
+382417,Grand Hotel Leveque,2981,1,RO,4,deluxe,A,7524,DLX,Board RO exists for hotel but category deluxe is missing
+382417,Grand Hotel Leveque,2981,1,RO,12,suite,A,7524,Suite,Board RO exists for hotel but category suite is missing
+382417,Grand Hotel Leveque,2981,2,BB,4,deluxe,A,7525,DLX,Board BB exists for hotel but category deluxe is missing
+382417,Grand Hotel Leveque,2981,2,BB,12,suite,A,7525,Suite,Board BB exists for hotel but category suite is missing
+382813,Dave Gordon - Son Of A Brown,3052,1,RO,2,superior,A,7750,SPR,Board RO exists for hotel but category superior is missing
+382813,Dave Gordon - Son Of A Brown,3052,1,RO,12,suite,A,7750,Suite,Board RO exists for hotel but category suite is missing
+382813,Dave Gordon - Son Of A Brown,3052,2,BB,2,superior,A,7751,SPR,Board BB exists for hotel but category superior is missing
+382813,Dave Gordon - Son Of A Brown,3052,2,BB,12,suite,A,7751,Suite,Board BB exists for hotel but category suite is missing
+383277,Iberostar Berkeley Shore Hotel,5092,1,RO,2,superior,A,12061,SPR,Board RO exists for hotel but category superior is missing
+383277,Iberostar Berkeley Shore Hotel,5092,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+383277,Iberostar Berkeley Shore Hotel,5092,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+388433,Hotel Pierre Nicole,2973,1,RO,2,superior,A,7537,SPR,Board RO exists for hotel but category superior is missing
+388433,Hotel Pierre Nicole,2973,1,RO,4,deluxe,A,7537,DLX,Board RO exists for hotel but category deluxe is missing
+388433,Hotel Pierre Nicole,2973,1,RO,12,suite,A,7537,Suite,Board RO exists for hotel but category suite is missing
+388433,Hotel Pierre Nicole,2973,2,BB,2,superior,A,7538,SPR,Board BB exists for hotel but category superior is missing
+388433,Hotel Pierre Nicole,2973,2,BB,4,deluxe,A,7538,DLX,Board BB exists for hotel but category deluxe is missing
+388433,Hotel Pierre Nicole,2973,2,BB,12,suite,A,7538,Suite,Board BB exists for hotel but category suite is missing
+392590,Hotel du Loiret / Grand Hotel Paris,2969,1,RO,2,superior,A,7545,SPR,Board RO exists for hotel but category superior is missing
+392590,Hotel du Loiret / Grand Hotel Paris,2969,1,RO,4,deluxe,A,7545,DLX,Board RO exists for hotel but category deluxe is missing
+392590,Hotel du Loiret / Grand Hotel Paris,2969,1,RO,12,suite,A,7545,Suite,Board RO exists for hotel but category suite is missing
+392596,MILLESIME HOTEL PARIS,2987,1,RO,4,deluxe,A,7600,DLX,Board RO exists for hotel but category deluxe is missing
+392596,MILLESIME HOTEL PARIS,2987,1,RO,12,suite,A,7600,Suite,Board RO exists for hotel but category suite is missing
+392596,MILLESIME HOTEL PARIS,2987,2,BB,4,deluxe,A,7601,DLX,Board BB exists for hotel but category deluxe is missing
+392596,MILLESIME HOTEL PARIS,2987,2,BB,12,suite,A,7601,Suite,Board BB exists for hotel but category suite is missing
+393267,JEANNE D'ARC MARAIS,2991,1,RO,4,deluxe,A,7592,DLX,Board RO exists for hotel but category deluxe is missing
+393267,JEANNE D'ARC MARAIS,2991,1,RO,12,suite,A,7592,Suite,Board RO exists for hotel but category suite is missing
+393267,JEANNE D'ARC MARAIS,2991,2,BB,4,deluxe,A,7593,DLX,Board BB exists for hotel but category deluxe is missing
+393267,JEANNE D'ARC MARAIS,2991,2,BB,12,suite,A,7593,Suite,Board BB exists for hotel but category suite is missing
+404578, Daria - Haon Beach Hotel (ex. Yama Hotel; Kfar Kinneret) ,3016,1,RO,2,superior,A,7641,SPR,Board RO exists for hotel but category superior is missing
+404578, Daria - Haon Beach Hotel (ex. Yama Hotel; Kfar Kinneret) ,3016,1,RO,4,deluxe,A,7641,DLX,Board RO exists for hotel but category deluxe is missing
+404578, Daria - Haon Beach Hotel (ex. Yama Hotel; Kfar Kinneret) ,3016,1,RO,12,suite,A,7641,Suite,Board RO exists for hotel but category suite is missing
+404578, Daria - Haon Beach Hotel (ex. Yama Hotel; Kfar Kinneret) ,3016,2,BB,2,superior,A,7642,SPR,Board BB exists for hotel but category superior is missing
+404578, Daria - Haon Beach Hotel (ex. Yama Hotel; Kfar Kinneret) ,3016,2,BB,4,deluxe,A,7642,DLX,Board BB exists for hotel but category deluxe is missing
+404578, Daria - Haon Beach Hotel (ex. Yama Hotel; Kfar Kinneret) ,3016,2,BB,12,suite,A,7642,Suite,Board BB exists for hotel but category suite is missing
+407878,Marlin Waterloo,2822,1,RO,2,superior,A,7131,SPR,Board RO exists for hotel but category superior is missing
+407878,Marlin Waterloo,2822,1,RO,12,suite,A,7131,Suite,Board RO exists for hotel but category suite is missing
+407878,Marlin Waterloo,2822,2,BB,2,superior,A,7132,SPR,Board BB exists for hotel but category superior is missing
+407878,Marlin Waterloo,2822,2,BB,12,suite,A,7132,Suite,Board BB exists for hotel but category suite is missing
+408350,Canal Central Hotel,2903,1,RO,12,suite,A,7224,Suite,Board RO exists for hotel but category suite is missing
+408350,Canal Central Hotel,2903,2,BB,12,suite,A,7225,Suite,Board BB exists for hotel but category suite is missing
+412558,Charmillion Club Resort,2918,1,RO,1,standard,A,7317,Stnd,Board RO exists for hotel but category standard is missing
+412558,Charmillion Club Resort,2918,1,RO,12,suite,A,7317,Suite,Board RO exists for hotel but category suite is missing
+412558,Charmillion Club Resort,2918,2,BB,1,standard,A,7318,Stnd,Board BB exists for hotel but category standard is missing
+412558,Charmillion Club Resort,2918,2,BB,12,suite,A,7318,Suite,Board BB exists for hotel but category suite is missing
+412558,Charmillion Club Resort,2918,5,AI,1,standard,A,7846,Stnd,Board AI exists for hotel but category standard is missing
+412558,Charmillion Club Resort,2918,5,AI,12,suite,A,7846,Suite,Board AI exists for hotel but category suite is missing
+414146,Hotel Belleza,5265,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+414146,Hotel Belleza,5265,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+414146,Hotel Belleza,5265,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+415363,Hotel de Roubaix,2982,1,RO,2,superior,A,7522,SPR,Board RO exists for hotel but category superior is missing
+415363,Hotel de Roubaix,2982,1,RO,4,deluxe,A,7522,DLX,Board RO exists for hotel but category deluxe is missing
+415363,Hotel de Roubaix,2982,1,RO,12,suite,A,7522,Suite,Board RO exists for hotel but category suite is missing
+415363,Hotel de Roubaix,2982,2,BB,2,superior,A,7523,SPR,Board BB exists for hotel but category superior is missing
+415363,Hotel de Roubaix,2982,2,BB,4,deluxe,A,7523,DLX,Board BB exists for hotel but category deluxe is missing
+415363,Hotel de Roubaix,2982,2,BB,12,suite,A,7523,Suite,Board BB exists for hotel but category suite is missing
+436699,DAMAC Maison Royale The Distinction,2878,1,RO,2,superior,A,7249,SPR,Board RO exists for hotel but category superior is missing
+437872,Sofitel Dubai Downtown,2875,1,RO,2,superior,A,7254,SPR,Board RO exists for hotel but category superior is missing
+437872,Sofitel Dubai Downtown,2875,1,RO,12,suite,A,7254,Suite,Board RO exists for hotel but category suite is missing
+437872,Sofitel Dubai Downtown,2875,2,BB,2,superior,A,7255,SPR,Board BB exists for hotel but category superior is missing
+437872,Sofitel Dubai Downtown,2875,2,BB,12,suite,A,7255,Suite,Board BB exists for hotel but category suite is missing
+446867,Hotel National Des Arts et Metiers,2997,1,RO,4,deluxe,A,7586,DLX,Board RO exists for hotel but category deluxe is missing
+446867,Hotel National Des Arts et Metiers,2997,1,RO,12,suite,A,7586,Suite,Board RO exists for hotel but category suite is missing
+446867,Hotel National Des Arts et Metiers,2997,2,BB,4,deluxe,A,7587,DLX,Board BB exists for hotel but category deluxe is missing
+446867,Hotel National Des Arts et Metiers,2997,2,BB,12,suite,A,7587,Suite,Board BB exists for hotel but category suite is missing
+475912,Poli House By Brown Hotels,3045,1,RO,2,superior,A,7738,SPR,Board RO exists for hotel but category superior is missing
+475912,Poli House By Brown Hotels,3045,1,RO,12,suite,A,7738,Suite,Board RO exists for hotel but category suite is missing
+475912,Poli House By Brown Hotels,3045,2,BB,2,superior,A,7739,SPR,Board BB exists for hotel but category superior is missing
+475912,Poli House By Brown Hotels,3045,2,BB,12,suite,A,7739,Suite,Board BB exists for hotel but category suite is missing
+700403,Lighthouse By Brown Hotels,3042,1,RO,4,deluxe,A,7732,DLX,Board RO exists for hotel but category deluxe is missing
+700403,Lighthouse By Brown Hotels,3042,1,RO,12,suite,A,7732,Suite,Board RO exists for hotel but category suite is missing
+700403,Lighthouse By Brown Hotels,3042,2,BB,4,deluxe,A,7733,DLX,Board BB exists for hotel but category deluxe is missing
+700403,Lighthouse By Brown Hotels,3042,2,BB,12,suite,A,7733,Suite,Board BB exists for hotel but category suite is missing
+701659,Generator Miami,5274,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+701659,Generator Miami,5274,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+701659,Generator Miami,5274,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+706661,Geula Suites,2839,1,RO,2,superior,A,7181,SPR,Board RO exists for hotel but category superior is missing
+706661,Geula Suites,2839,1,RO,4,deluxe,A,7181,DLX,Board RO exists for hotel but category deluxe is missing
+706661,Geula Suites,2839,1,RO,12,suite,A,7181,Suite,Board RO exists for hotel but category suite is missing
+733781,DoubleTree by Hilton Miami Doral,5082,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+733781,DoubleTree by Hilton Miami Doral,5082,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+733781,DoubleTree by Hilton Miami Doral,5082,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+766812,Residence 26,2838,1,RO,2,superior,A,7182,SPR,Board RO exists for hotel but category superior is missing
+766812,Residence 26,2838,1,RO,4,deluxe,A,7182,DLX,Board RO exists for hotel but category deluxe is missing
+825006,Address Downtown,2901,1,RO,2,superior,A,7231,SPR,Board RO exists for hotel but category superior is missing
+825006,Address Downtown,2901,1,RO,12,suite,A,7231,Suite,Board RO exists for hotel but category suite is missing
+825006,Address Downtown,2901,2,BB,2,superior,A,7232,SPR,Board BB exists for hotel but category superior is missing
+825006,Address Downtown,2901,2,BB,12,suite,A,7232,Suite,Board BB exists for hotel but category suite is missing
+825207,Baywatch Hotel,3006,1,RO,2,superior,A,7625,SPR,Board RO exists for hotel but category superior is missing
+825207,Baywatch Hotel,3006,1,RO,4,deluxe,A,7625,DLX,Board RO exists for hotel but category deluxe is missing
+825207,Baywatch Hotel,3006,1,RO,12,suite,A,7625,Suite,Board RO exists for hotel but category suite is missing
+825207,Baywatch Hotel,3006,2,BB,2,superior,A,7626,SPR,Board BB exists for hotel but category superior is missing
+825207,Baywatch Hotel,3006,2,BB,4,deluxe,A,7626,DLX,Board BB exists for hotel but category deluxe is missing
+825207,Baywatch Hotel,3006,2,BB,12,suite,A,7626,Suite,Board BB exists for hotel but category suite is missing
+825952,MERIT KENSINGTON,2806,1,RO,2,superior,A,7113,SPR,Board RO exists for hotel but category superior is missing
+825952,MERIT KENSINGTON,2806,1,RO,4,deluxe,A,7113,DLX,Board RO exists for hotel but category deluxe is missing
+825952,MERIT KENSINGTON,2806,1,RO,12,suite,A,7113,Suite,Board RO exists for hotel but category suite is missing
+825952,MERIT KENSINGTON,2806,2,BB,2,superior,A,7114,SPR,Board BB exists for hotel but category superior is missing
+825952,MERIT KENSINGTON,2806,2,BB,4,deluxe,A,7114,DLX,Board BB exists for hotel but category deluxe is missing
+825952,MERIT KENSINGTON,2806,2,BB,12,suite,A,7114,Suite,Board BB exists for hotel but category suite is missing
+826044,Hotel Du Champ de Mars,3012,1,RO,4,deluxe,A,7608,DLX,Board RO exists for hotel but category deluxe is missing
+826044,Hotel Du Champ de Mars,3012,1,RO,12,suite,A,7608,Suite,Board RO exists for hotel but category suite is missing
+826068,Waldorf Astoria Dubai International Financial Centre,2904,1,RO,2,superior,A,7222,SPR,Board RO exists for hotel but category superior is missing
+826068,Waldorf Astoria Dubai International Financial Centre,2904,2,BB,2,superior,A,7223,SPR,Board BB exists for hotel but category superior is missing
+826577,Radisson Blu Hotel Dubai Waterfront,2879,1,RO,4,deluxe,A,7247,DLX,Board RO exists for hotel but category deluxe is missing
+826577,Radisson Blu Hotel Dubai Waterfront,2879,1,RO,12,suite,A,7247,Suite,Board RO exists for hotel but category suite is missing
+826577,Radisson Blu Hotel Dubai Waterfront,2879,2,BB,4,deluxe,A,7248,DLX,Board BB exists for hotel but category deluxe is missing
+826577,Radisson Blu Hotel Dubai Waterfront,2879,2,BB,12,suite,A,7248,Suite,Board BB exists for hotel but category suite is missing
+826585,Grand Millennium Business Bay,2890,1,RO,4,deluxe,A,7211,DLX,Board RO exists for hotel but category deluxe is missing
+826585,Grand Millennium Business Bay,2890,1,RO,12,suite,A,7211,Suite,Board RO exists for hotel but category suite is missing
+826585,Grand Millennium Business Bay,2890,2,BB,4,deluxe,A,7212,DLX,Board BB exists for hotel but category deluxe is missing
+826585,Grand Millennium Business Bay,2890,2,BB,12,suite,A,7212,Suite,Board BB exists for hotel but category suite is missing
+826607,Paramount Hotel Dubai,2868,1,RO,2,superior,A,7269,SPR,Board RO exists for hotel but category superior is missing
+826607,Paramount Hotel Dubai,2868,1,RO,4,deluxe,A,7269,DLX,Board RO exists for hotel but category deluxe is missing
+826607,Paramount Hotel Dubai,2868,2,BB,2,superior,A,7270,SPR,Board BB exists for hotel but category superior is missing
+826607,Paramount Hotel Dubai,2868,2,BB,4,deluxe,A,7270,DLX,Board BB exists for hotel but category deluxe is missing
+826608,"Radisson Blu, Dubai Canal View",2885,1,RO,4,deluxe,A,7235,DLX,Board RO exists for hotel but category deluxe is missing
+826608,"Radisson Blu, Dubai Canal View",2885,1,RO,12,suite,A,7235,Suite,Board RO exists for hotel but category suite is missing
+826608,"Radisson Blu, Dubai Canal View",2885,2,BB,4,deluxe,A,7236,DLX,Board BB exists for hotel but category deluxe is missing
+826608,"Radisson Blu, Dubai Canal View",2885,2,BB,12,suite,A,7236,Suite,Board BB exists for hotel but category suite is missing
+826694,Brown Seaside By Brown Hotels,3050,1,RO,2,superior,A,7746,SPR,Board RO exists for hotel but category superior is missing
+826694,Brown Seaside By Brown Hotels,3050,1,RO,12,suite,A,7746,Suite,Board RO exists for hotel but category suite is missing
+826694,Brown Seaside By Brown Hotels,3050,2,BB,2,superior,A,7747,SPR,Board BB exists for hotel but category superior is missing
+826694,Brown Seaside By Brown Hotels,3050,2,BB,12,suite,A,7747,Suite,Board BB exists for hotel but category suite is missing
+826697,Hotel BoBo by Brown Hotels,3043,1,RO,2,superior,A,7734,SPR,Board RO exists for hotel but category superior is missing
+826697,Hotel BoBo by Brown Hotels,3043,1,RO,12,suite,A,7734,Suite,Board RO exists for hotel but category suite is missing
+826697,Hotel BoBo by Brown Hotels,3043,2,BB,2,superior,A,7735,SPR,Board BB exists for hotel but category superior is missing
+826697,Hotel BoBo by Brown Hotels,3043,2,BB,12,suite,A,7735,Suite,Board BB exists for hotel but category suite is missing
+826698,Dave Levinsky - Son of a Brown,3053,1,RO,2,superior,A,7752,SPR,Board RO exists for hotel but category superior is missing
+826698,Dave Levinsky - Son of a Brown,3053,1,RO,4,deluxe,A,7752,DLX,Board RO exists for hotel but category deluxe is missing
+826698,Dave Levinsky - Son of a Brown,3053,1,RO,12,suite,A,7752,Suite,Board RO exists for hotel but category suite is missing
+826698,Dave Levinsky - Son of a Brown,3053,2,BB,2,superior,A,7753,SPR,Board BB exists for hotel but category superior is missing
+826698,Dave Levinsky - Son of a Brown,3053,2,BB,4,deluxe,A,7753,DLX,Board BB exists for hotel but category deluxe is missing
+826698,Dave Levinsky - Son of a Brown,3053,2,BB,12,suite,A,7753,Suite,Board BB exists for hotel but category suite is missing
+826703,Theodor By Brown Hotels,3051,1,RO,4,deluxe,A,7748,DLX,Board RO exists for hotel but category deluxe is missing
+826703,Theodor By Brown Hotels,3051,1,RO,12,suite,A,7748,Suite,Board RO exists for hotel but category suite is missing
+826703,Theodor By Brown Hotels,3051,2,BB,4,deluxe,A,7749,DLX,Board BB exists for hotel but category deluxe is missing
+826703,Theodor By Brown Hotels,3051,2,BB,12,suite,A,7749,Suite,Board BB exists for hotel but category suite is missing
+827204,Hotel Heleni Jerusalem (by Olive) ,3005,1,RO,2,superior,A,7617,SPR,Board RO exists for hotel but category superior is missing
+827204,Hotel Heleni Jerusalem (by Olive) ,3005,1,RO,4,deluxe,A,7617,DLX,Board RO exists for hotel but category deluxe is missing
+827204,Hotel Heleni Jerusalem (by Olive) ,3005,1,RO,12,suite,A,7617,Suite,Board RO exists for hotel but category suite is missing
+827204,Hotel Heleni Jerusalem (by Olive) ,3005,2,BB,2,superior,A,7618,SPR,Board BB exists for hotel but category superior is missing
+827204,Hotel Heleni Jerusalem (by Olive) ,3005,2,BB,4,deluxe,A,7618,DLX,Board BB exists for hotel but category deluxe is missing
+827204,Hotel Heleni Jerusalem (by Olive) ,3005,2,BB,12,suite,A,7618,Suite,Board BB exists for hotel but category suite is missing
+827532,Address Sky View,2902,1,RO,2,superior,A,7226,SPR,Board RO exists for hotel but category superior is missing
+827532,Address Sky View,2902,1,RO,12,suite,A,7226,Suite,Board RO exists for hotel but category suite is missing
+827532,Address Sky View,2902,2,BB,2,superior,A,7227,SPR,Board BB exists for hotel but category superior is missing
+827532,Address Sky View,2902,2,BB,12,suite,A,7227,Suite,Board BB exists for hotel but category suite is missing
+827543,BROWN JLM,3058,1,RO,2,superior,A,7756,SPR,Board RO exists for hotel but category superior is missing
+827543,BROWN JLM,3058,1,RO,12,suite,A,7756,Suite,Board RO exists for hotel but category suite is missing
+827543,BROWN JLM,3058,2,BB,2,superior,A,7757,SPR,Board BB exists for hotel but category superior is missing
+827543,BROWN JLM,3058,2,BB,12,suite,A,7757,Suite,Board BB exists for hotel but category suite is missing
+827553,Jaz Mirabel Resort,2929,5,AI,1,standard,A,7333,Stnd,Board AI exists for hotel but category standard is missing
+827553,Jaz Mirabel Resort,2929,5,AI,12,suite,A,7333,Suite,Board AI exists for hotel but category suite is missing
+827554,Albatros Aqua Park Sharm El Sheikh,2916,1,RO,2,superior,A,7315,SPR,Board RO exists for hotel but category superior is missing
+827554,Albatros Aqua Park Sharm El Sheikh,2916,1,RO,12,suite,A,7315,Suite,Board RO exists for hotel but category suite is missing
+827554,Albatros Aqua Park Sharm El Sheikh,2916,2,BB,2,superior,A,7316,SPR,Board BB exists for hotel but category superior is missing
+827554,Albatros Aqua Park Sharm El Sheikh,2916,2,BB,12,suite,A,7316,Suite,Board BB exists for hotel but category suite is missing
+827554,Albatros Aqua Park Sharm El Sheikh,2916,5,AI,2,superior,A,7888,SPR,Board AI exists for hotel but category superior is missing
+827554,Albatros Aqua Park Sharm El Sheikh,2916,5,AI,12,suite,A,7888,Suite,Board AI exists for hotel but category suite is missing
+827688,Brown Machne Yehuda  ,3059,1,RO,4,deluxe,A,7758,DLX,Board RO exists for hotel but category deluxe is missing
+827688,Brown Machne Yehuda  ,3059,1,RO,12,suite,A,7758,Suite,Board RO exists for hotel but category suite is missing
+827688,Brown Machne Yehuda  ,3059,2,BB,4,deluxe,A,7759,DLX,Board BB exists for hotel but category deluxe is missing
+827688,Brown Machne Yehuda  ,3059,2,BB,12,suite,A,7759,Suite,Board BB exists for hotel but category suite is missing
+827737,ibis Styles London Ealing,2794,1,RO,2,superior,A,7076,SPR,Board RO exists for hotel but category superior is missing
+827737,ibis Styles London Ealing,2794,1,RO,4,deluxe,A,7076,DLX,Board RO exists for hotel but category deluxe is missing
+827737,ibis Styles London Ealing,2794,1,RO,12,suite,A,7076,Suite,Board RO exists for hotel but category suite is missing
+827737,ibis Styles London Ealing,2794,2,BB,2,superior,A,7077,SPR,Board BB exists for hotel but category superior is missing
+827737,ibis Styles London Ealing,2794,2,BB,4,deluxe,A,7077,DLX,Board BB exists for hotel but category deluxe is missing
+827737,ibis Styles London Ealing,2794,2,BB,12,suite,A,7077,Suite,Board BB exists for hotel but category suite is missing
+827752,Hotel Indigo Dubai Downtown,2869,1,RO,12,suite,A,7267,Suite,Board RO exists for hotel but category suite is missing
+827752,Hotel Indigo Dubai Downtown,2869,2,BB,12,suite,A,7268,Suite,Board BB exists for hotel but category suite is missing
+839231,Olive Gilboa  ,3010,1,RO,2,superior,A,7631,SPR,Board RO exists for hotel but category superior is missing
+839231,Olive Gilboa  ,3010,1,RO,4,deluxe,A,7631,DLX,Board RO exists for hotel but category deluxe is missing
+839231,Olive Gilboa  ,3010,1,RO,12,suite,A,7631,Suite,Board RO exists for hotel but category suite is missing
+839231,Olive Gilboa  ,3010,2,BB,2,superior,A,7632,SPR,Board BB exists for hotel but category superior is missing
+839231,Olive Gilboa  ,3010,2,BB,4,deluxe,A,7632,DLX,Board BB exists for hotel but category deluxe is missing
+839231,Olive Gilboa  ,3010,2,BB,12,suite,A,7632,Suite,Board BB exists for hotel but category suite is missing
+839232,Rimonim Aquaduct Hotel ,3014,1,RO,2,superior,A,7637,SPR,Board RO exists for hotel but category superior is missing
+839232,Rimonim Aquaduct Hotel ,3014,1,RO,12,suite,A,7637,Suite,Board RO exists for hotel but category suite is missing
+839232,Rimonim Aquaduct Hotel ,3014,2,BB,2,superior,A,7638,SPR,Board BB exists for hotel but category superior is missing
+839232,Rimonim Aquaduct Hotel ,3014,2,BB,12,suite,A,7638,Suite,Board BB exists for hotel but category suite is missing
+839233,Olive Tlv 88 Sea Hotel,3002,1,RO,2,superior,A,7611,SPR,Board RO exists for hotel but category superior is missing
+839233,Olive Tlv 88 Sea Hotel,3002,1,RO,4,deluxe,A,7611,DLX,Board RO exists for hotel but category deluxe is missing
+839233,Olive Tlv 88 Sea Hotel,3002,1,RO,12,suite,A,7611,Suite,Board RO exists for hotel but category suite is missing
+839233,Olive Tlv 88 Sea Hotel,3002,2,BB,2,superior,A,7612,SPR,Board BB exists for hotel but category superior is missing
+839233,Olive Tlv 88 Sea Hotel,3002,2,BB,4,deluxe,A,7612,DLX,Board BB exists for hotel but category deluxe is missing
+839233,Olive Tlv 88 Sea Hotel,3002,2,BB,12,suite,A,7612,Suite,Board BB exists for hotel but category suite is missing
+839234,Olive The White House  ,3001,1,RO,2,superior,A,7609,SPR,Board RO exists for hotel but category superior is missing
+839234,Olive The White House  ,3001,1,RO,4,deluxe,A,7609,DLX,Board RO exists for hotel but category deluxe is missing
+839234,Olive The White House  ,3001,1,RO,12,suite,A,7609,Suite,Board RO exists for hotel but category suite is missing
+839234,Olive The White House  ,3001,2,BB,2,superior,A,7610,SPR,Board BB exists for hotel but category superior is missing
+839234,Olive The White House  ,3001,2,BB,4,deluxe,A,7610,DLX,Board BB exists for hotel but category deluxe is missing
+839234,Olive The White House  ,3001,2,BB,12,suite,A,7610,Suite,Board BB exists for hotel but category suite is missing
+839235,Olive Beer Garden Hotel ,3003,1,RO,2,superior,A,7613,SPR,Board RO exists for hotel but category superior is missing
+839235,Olive Beer Garden Hotel ,3003,1,RO,4,deluxe,A,7613,DLX,Board RO exists for hotel but category deluxe is missing
+839235,Olive Beer Garden Hotel ,3003,1,RO,12,suite,A,7613,Suite,Board RO exists for hotel but category suite is missing
+839235,Olive Beer Garden Hotel ,3003,2,BB,2,superior,A,7614,SPR,Board BB exists for hotel but category superior is missing
+839235,Olive Beer Garden Hotel ,3003,2,BB,4,deluxe,A,7614,DLX,Board BB exists for hotel but category deluxe is missing
+839235,Olive Beer Garden Hotel ,3003,2,BB,12,suite,A,7614,Suite,Board BB exists for hotel but category suite is missing
+839236,Rimonim Madison Hotel Nahariya ,3013,1,RO,4,deluxe,A,7635,DLX,Board RO exists for hotel but category deluxe is missing
+839236,Rimonim Madison Hotel Nahariya ,3013,1,RO,12,suite,A,7635,Suite,Board RO exists for hotel but category suite is missing
+839236,Rimonim Madison Hotel Nahariya ,3013,2,BB,4,deluxe,A,7636,DLX,Board BB exists for hotel but category deluxe is missing
+839236,Rimonim Madison Hotel Nahariya ,3013,2,BB,12,suite,A,7636,Suite,Board BB exists for hotel but category suite is missing
+839237,Olive Boutique Hotel Nahariya,3008,1,RO,2,superior,A,7627,SPR,Board RO exists for hotel but category superior is missing
+839237,Olive Boutique Hotel Nahariya,3008,1,RO,4,deluxe,A,7627,DLX,Board RO exists for hotel but category deluxe is missing
+839237,Olive Boutique Hotel Nahariya,3008,1,RO,12,suite,A,7627,Suite,Board RO exists for hotel but category suite is missing
+839237,Olive Boutique Hotel Nahariya,3008,2,BB,2,superior,A,7628,SPR,Board BB exists for hotel but category superior is missing
+839237,Olive Boutique Hotel Nahariya,3008,2,BB,4,deluxe,A,7628,DLX,Board BB exists for hotel but category deluxe is missing
+839237,Olive Boutique Hotel Nahariya,3008,2,BB,12,suite,A,7628,Suite,Board BB exists for hotel but category suite is missing
+839239,Olive Gordon By The Beach ,3004,1,RO,2,superior,A,7615,SPR,Board RO exists for hotel but category superior is missing
+839239,Olive Gordon By The Beach ,3004,1,RO,4,deluxe,A,7615,DLX,Board RO exists for hotel but category deluxe is missing
+839239,Olive Gordon By The Beach ,3004,1,RO,12,suite,A,7615,Suite,Board RO exists for hotel but category suite is missing
+839239,Olive Gordon By The Beach ,3004,2,BB,2,superior,A,7616,SPR,Board BB exists for hotel but category superior is missing
+839239,Olive Gordon By The Beach ,3004,2,BB,4,deluxe,A,7616,DLX,Board BB exists for hotel but category deluxe is missing
+839239,Olive Gordon By The Beach ,3004,2,BB,12,suite,A,7616,Suite,Board BB exists for hotel but category suite is missing
+839242,Villa Bakfar,3011,1,RO,2,superior,A,7633,SPR,Board RO exists for hotel but category superior is missing
+839242,Villa Bakfar,3011,1,RO,4,deluxe,A,7633,DLX,Board RO exists for hotel but category deluxe is missing
+839242,Villa Bakfar,3011,1,RO,12,suite,A,7633,Suite,Board RO exists for hotel but category suite is missing
+839242,Villa Bakfar,3011,2,BB,2,superior,A,7634,SPR,Board BB exists for hotel but category superior is missing
+839242,Villa Bakfar,3011,2,BB,4,deluxe,A,7634,DLX,Board BB exists for hotel but category deluxe is missing
+839242,Villa Bakfar,3011,2,BB,12,suite,A,7634,Suite,Board BB exists for hotel but category suite is missing
+842332,PULLMAN DUBAI DOWNTOWN HOTEL,2871,1,RO,1,standard,A,7263,Stnd,Board RO exists for hotel but category standard is missing
+842332,PULLMAN DUBAI DOWNTOWN HOTEL,2871,1,RO,12,suite,A,7263,Suite,Board RO exists for hotel but category suite is missing
+842332,PULLMAN DUBAI DOWNTOWN HOTEL,2871,2,BB,1,standard,A,7264,Stnd,Board BB exists for hotel but category standard is missing
+842332,PULLMAN DUBAI DOWNTOWN HOTEL,2871,2,BB,12,suite,A,7264,Suite,Board BB exists for hotel but category suite is missing
+842529,Golden House By Brown Hotels,3047,1,RO,4,deluxe,A,7741,DLX,Board RO exists for hotel but category deluxe is missing
+842529,Golden House By Brown Hotels,3047,1,RO,12,suite,A,7741,Suite,Board RO exists for hotel but category suite is missing
+842529,Golden House By Brown Hotels,3047,2,BB,4,deluxe,A,7742,DLX,Board BB exists for hotel but category deluxe is missing
+842529,Golden House By Brown Hotels,3047,2,BB,12,suite,A,7742,Suite,Board BB exists for hotel but category suite is missing
+842530,Villa Brown Tel Aviv,3049,1,RO,2,superior,A,7745,SPR,Board RO exists for hotel but category superior is missing
+842530,Villa Brown Tel Aviv,3049,1,RO,4,deluxe,A,7745,DLX,Board RO exists for hotel but category deluxe is missing
+842530,Villa Brown Tel Aviv,3049,1,RO,12,suite,A,7745,Suite,Board RO exists for hotel but category suite is missing
+842608,SLS Dubai Hotel & Residences,2881,1,RO,2,superior,A,7243,SPR,Board RO exists for hotel but category superior is missing
+842608,SLS Dubai Hotel & Residences,2881,1,RO,4,deluxe,A,7243,DLX,Board RO exists for hotel but category deluxe is missing
+842608,SLS Dubai Hotel & Residences,2881,2,BB,2,superior,A,7244,SPR,Board BB exists for hotel but category superior is missing
+842608,SLS Dubai Hotel & Residences,2881,2,BB,4,deluxe,A,7244,DLX,Board BB exists for hotel but category deluxe is missing
+845261,Dave Red Athens - Son Of A Brown,3070,1,RO,2,superior,A,7774,SPR,Board RO exists for hotel but category superior is missing
+845261,Dave Red Athens - Son Of A Brown,3070,1,RO,4,deluxe,A,7774,DLX,Board RO exists for hotel but category deluxe is missing
+845261,Dave Red Athens - Son Of A Brown,3070,2,BB,2,superior,A,7775,SPR,Board BB exists for hotel but category superior is missing
+845261,Dave Red Athens - Son Of A Brown,3070,2,BB,4,deluxe,A,7775,DLX,Board BB exists for hotel but category deluxe is missing
+845354,Debrah Brown Tel-Aviv,3044,1,RO,2,superior,A,7736,SPR,Board RO exists for hotel but category superior is missing
+845354,Debrah Brown Tel-Aviv,3044,1,RO,12,suite,A,7736,Suite,Board RO exists for hotel but category suite is missing
+845354,Debrah Brown Tel-Aviv,3044,2,BB,2,superior,A,7737,SPR,Board BB exists for hotel but category superior is missing
+845354,Debrah Brown Tel-Aviv,3044,2,BB,12,suite,A,7737,Suite,Board BB exists for hotel but category suite is missing
+845364,Villa Brown Ermou hotel a member of Brown Hotels,3069,1,RO,2,superior,A,7772,SPR,Board RO exists for hotel but category superior is missing
+845364,Villa Brown Ermou hotel a member of Brown Hotels,3069,1,RO,12,suite,A,7772,Suite,Board RO exists for hotel but category suite is missing
+845364,Villa Brown Ermou hotel a member of Brown Hotels,3069,2,BB,2,superior,A,7773,SPR,Board BB exists for hotel but category superior is missing
+845364,Villa Brown Ermou hotel a member of Brown Hotels,3069,2,BB,12,suite,A,7773,Suite,Board BB exists for hotel but category suite is missing
+845365,Brown Beach Corinthia a member of Brown Hotels  ,3072,1,RO,2,superior,A,7778,SPR,Board RO exists for hotel but category superior is missing
+845365,Brown Beach Corinthia a member of Brown Hotels  ,3072,1,RO,12,suite,A,7778,Suite,Board RO exists for hotel but category suite is missing
+845365,Brown Beach Corinthia a member of Brown Hotels  ,3072,2,BB,2,superior,A,7779,SPR,Board BB exists for hotel but category superior is missing
+845365,Brown Beach Corinthia a member of Brown Hotels  ,3072,2,BB,12,suite,A,7779,Suite,Board BB exists for hotel but category suite is missing
+846048,Brown Brut A Member Of Brown Hotels,3048,1,RO,2,superior,A,7743,SPR,Board RO exists for hotel but category superior is missing
+846048,Brown Brut A Member Of Brown Hotels,3048,1,RO,12,suite,A,7743,Suite,Board RO exists for hotel but category suite is missing
+846048,Brown Brut A Member Of Brown Hotels,3048,2,BB,2,superior,A,7744,SPR,Board BB exists for hotel but category superior is missing
+846048,Brown Brut A Member Of Brown Hotels,3048,2,BB,12,suite,A,7744,Suite,Board BB exists for hotel but category suite is missing
+846050,Ink Hotel,2831,1,RO,12,suite,A,7145,Suite,Board RO exists for hotel but category suite is missing
+846050,Ink Hotel,2831,2,BB,12,suite,A,7146,Suite,Board BB exists for hotel but category suite is missing
+846098,HYATT CENTRIC JUMEIRAH DUBAI,2883,1,RO,2,superior,A,7239,SPR,Board RO exists for hotel but category superior is missing
+846098,HYATT CENTRIC JUMEIRAH DUBAI,2883,2,BB,2,superior,A,7240,SPR,Board BB exists for hotel but category superior is missing
+846102,25HOURS HOTEL DUBAI ONE CENTRAL,2870,1,RO,2,superior,A,7265,SPR,Board RO exists for hotel but category superior is missing
+846102,25HOURS HOTEL DUBAI ONE CENTRAL,2870,1,RO,4,deluxe,A,7265,DLX,Board RO exists for hotel but category deluxe is missing
+846102,25HOURS HOTEL DUBAI ONE CENTRAL,2870,2,BB,2,superior,A,7266,SPR,Board BB exists for hotel but category superior is missing
+846102,25HOURS HOTEL DUBAI ONE CENTRAL,2870,2,BB,4,deluxe,A,7266,DLX,Board BB exists for hotel but category deluxe is missing
+846140,Paramount Hotel Midtown,2864,1,RO,2,superior,A,7277,SPR,Board RO exists for hotel but category superior is missing
+846140,Paramount Hotel Midtown,2864,1,RO,4,deluxe,A,7277,DLX,Board RO exists for hotel but category deluxe is missing
+846140,Paramount Hotel Midtown,2864,2,BB,2,superior,A,7278,SPR,Board BB exists for hotel but category superior is missing
+846140,Paramount Hotel Midtown,2864,2,BB,4,deluxe,A,7278,DLX,Board BB exists for hotel but category deluxe is missing
+846278,The Grand at Trafalgar Square,2814,1,RO,2,superior,A,7119,SPR,Board RO exists for hotel but category superior is missing
+846278,The Grand at Trafalgar Square,2814,1,RO,4,deluxe,A,7119,DLX,Board RO exists for hotel but category deluxe is missing
+846278,The Grand at Trafalgar Square,2814,1,RO,12,suite,A,7119,Suite,Board RO exists for hotel but category suite is missing
+846278,The Grand at Trafalgar Square,2814,2,BB,2,superior,A,7120,SPR,Board BB exists for hotel but category superior is missing
+846278,The Grand at Trafalgar Square,2814,2,BB,4,deluxe,A,7120,DLX,Board BB exists for hotel but category deluxe is missing
+846278,The Grand at Trafalgar Square,2814,2,BB,12,suite,A,7120,Suite,Board BB exists for hotel but category suite is missing
+846428,Kimpton Hotel Palomar South Beach,5116,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+846428,Kimpton Hotel Palomar South Beach,5116,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+846428,Kimpton Hotel Palomar South Beach,5116,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+846488,The Dubai EDITION,2877,1,RO,2,superior,A,7250,SPR,Board RO exists for hotel but category superior is missing
+846488,The Dubai EDITION,2877,1,RO,12,suite,A,7250,Suite,Board RO exists for hotel but category suite is missing
+846488,The Dubai EDITION,2877,2,BB,2,superior,A,7251,SPR,Board BB exists for hotel but category superior is missing
+846488,The Dubai EDITION,2877,2,BB,12,suite,A,7251,Suite,Board BB exists for hotel but category suite is missing
+846944,"Brown Lighthouse Athens, A Member Of Brown Hotels, Athens",3067,1,RO,2,superior,A,7767,SPR,Board RO exists for hotel but category superior is missing
+846944,"Brown Lighthouse Athens, A Member Of Brown Hotels, Athens",3067,1,RO,12,suite,A,7767,Suite,Board RO exists for hotel but category suite is missing
+846944,"Brown Lighthouse Athens, A Member Of Brown Hotels, Athens",3067,2,BB,2,superior,A,7768,SPR,Board BB exists for hotel but category superior is missing
+846944,"Brown Lighthouse Athens, A Member Of Brown Hotels, Athens",3067,2,BB,12,suite,A,7768,Suite,Board BB exists for hotel but category suite is missing
+847409,"Brown Kubic, a member of Brown Hotels",3071,1,RO,2,superior,A,7776,SPR,Board RO exists for hotel but category superior is missing
+847409,"Brown Kubic, a member of Brown Hotels",3071,1,RO,4,deluxe,A,7776,DLX,Board RO exists for hotel but category deluxe is missing
+847409,"Brown Kubic, a member of Brown Hotels",3071,1,RO,12,suite,A,7776,Suite,Board RO exists for hotel but category suite is missing
+847409,"Brown Kubic, a member of Brown Hotels",3071,2,BB,2,superior,A,7777,SPR,Board BB exists for hotel but category superior is missing
+847409,"Brown Kubic, a member of Brown Hotels",3071,2,BB,4,deluxe,A,7777,DLX,Board BB exists for hotel but category deluxe is missing
+847409,"Brown Kubic, a member of Brown Hotels",3071,2,BB,12,suite,A,7777,Suite,Board BB exists for hotel but category suite is missing
+847726,Glamping Mia,3007,1,RO,2,superior,A,7622,SPR,Board RO exists for hotel but category superior is missing
+847726,Glamping Mia,3007,1,RO,4,deluxe,A,7622,DLX,Board RO exists for hotel but category deluxe is missing
+847726,Glamping Mia,3007,1,RO,12,suite,A,7622,Suite,Board RO exists for hotel but category suite is missing
+847726,Glamping Mia,3007,2,BB,2,superior,A,7623,SPR,Board BB exists for hotel but category superior is missing
+847726,Glamping Mia,3007,2,BB,4,deluxe,A,7623,DLX,Board BB exists for hotel but category deluxe is missing
+847726,Glamping Mia,3007,2,BB,12,suite,A,7623,Suite,Board BB exists for hotel but category suite is missing
+848677,"The Gabriel Miami South Beach, Curio Collection by Hilton",5108,1,RO,2,superior,A,12075,SPR,Board RO exists for hotel but category superior is missing
+851633,THE LANDON BAY HARBOR,5138,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+851633,THE LANDON BAY HARBOR,5138,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+851633,THE LANDON BAY HARBOR,5138,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+851939,"SERENA Hotel Aventura Miami, Tapestry Collection by Hilton",5139,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+851939,"SERENA Hotel Aventura Miami, Tapestry Collection by Hilton",5139,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+851939,"SERENA Hotel Aventura Miami, Tapestry Collection by Hilton",5139,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+852120,SLS LUX Brickell,5077,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+852120,SLS LUX Brickell,5077,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+852120,SLS LUX Brickell,5077,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+852725,Gale Miami Hotel and Residences,5278,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+852725,Gale Miami Hotel and Residences,5278,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+852725,Gale Miami Hotel and Residences,5278,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+853382,Atwell Suites Miami Brickell,5101,1,RO,2,superior,A,12068,SPR,Board RO exists for hotel but category superior is missing
+853382,Atwell Suites Miami Brickell,5101,1,RO,4,deluxe,A,12068,DLX,Board RO exists for hotel but category deluxe is missing
+854710,citizenM Miami South Beach,5119,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+854710,citizenM Miami South Beach,5119,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+854710,citizenM Miami South Beach,5119,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+854875,Hampton Inn Miami Beach - Mid Beach,5106,1,RO,2,superior,A,12074,SPR,Board RO exists for hotel but category superior is missing
+854875,Hampton Inn Miami Beach - Mid Beach,5106,1,RO,4,deluxe,A,12074,DLX,Board RO exists for hotel but category deluxe is missing
+854875,Hampton Inn Miami Beach - Mid Beach,5106,1,RO,12,suite,A,12074,Suite,Board RO exists for hotel but category suite is missing
+854881,citizenM Miami Brickell hotel,5079,1,RO,2,superior,A,12043,SPR,Board RO exists for hotel but category superior is missing
+854881,citizenM Miami Brickell hotel,5079,1,RO,4,deluxe,A,12043,DLX,Board RO exists for hotel but category deluxe is missing
+854881,citizenM Miami Brickell hotel,5079,1,RO,12,suite,A,12043,Suite,Board RO exists for hotel but category suite is missing
+855711,The Albion Hotel,5117,1,RO,2,superior,A,12035,SPR,Board RO exists for hotel but category superior is missing
+855711,The Albion Hotel,5117,2,BB,2,superior,A,13168,SPR,Board BB exists for hotel but category superior is missing
+855711,The Albion Hotel,5117,2,BB,4,deluxe,A,13168,DLX,Board BB exists for hotel but category deluxe is missing
+855865,The Grayson Hotel Miami Downtown,5094,1,RO,2,superior,A,12063,SPR,Board RO exists for hotel but category superior is missing

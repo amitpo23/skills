@@ -1,0 +1,18 @@
+[
+  {
+    "hotel_id": 20702,
+    "board_id": 2,
+    "category_id": 1,
+    "status": "INSERTED",
+    "rpc": "13170",
+    "itc": "Stnd"
+  },
+  {
+    "hotel_id": 24982,
+    "board_id": 2,
+    "category_id": 4,
+    "status": "INSERTED",
+    "rpc": "13173",
+    "itc": "DLX"
+  }
+]

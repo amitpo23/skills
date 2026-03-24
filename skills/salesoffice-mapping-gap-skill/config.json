@@ -1,0 +1,8 @@
+{
+    "connection_string": "Driver={ODBC Driver 17 for SQL Server};Server=medici-sql-server.database.windows.net;Database=medici-db;Encrypt=yes;TrustServerCertificate=no;UID=medici_sql_admin;PWD=@Amit2025",
+    "min_hits": 3,
+    "min_distinct_orders": 2,
+    "hours": 24,
+    "max_fixes_per_hotel": 5,
+    "out_dir": "autofix-report"
+}

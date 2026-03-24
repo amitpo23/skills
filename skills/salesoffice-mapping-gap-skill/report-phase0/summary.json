@@ -1,0 +1,220 @@
+{
+  "generatedAtUtc": "2026-03-18T09:09:44.215633+00:00",
+  "totalHotelsAnalyzed": 6,
+  "hotelsWithGaps": 5,
+  "totalGaps": 17,
+  "typeA_autoFixable": 17,
+  "typeB_needsZenith": 0,
+  "gapsByHotel": [
+    {
+      "hotelId": 20702,
+      "hotelName": "Embassy Suites by Hilton Miami International Airport",
+      "venueId": 5081,
+      "existingCombos": 3,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 5,
+      "typeAGaps": 5,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12045",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "12045",
+          "suggestedITC": "DLX",
+          "reason": "Board RO exists for hotel but category deluxe is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "standard",
+          "type": "A",
+          "suggestedRPC": "13170",
+          "suggestedITC": "Stnd",
+          "reason": "Board BB exists for hotel but category standard is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "13170",
+          "suggestedITC": "SPR",
+          "reason": "Board BB exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "13170",
+          "suggestedITC": "DLX",
+          "reason": "Board BB exists for hotel but category deluxe is missing"
+        }
+      ]
+    },
+    {
+      "hotelId": 24982,
+      "hotelName": "Hilton Miami Downtown",
+      "venueId": 5084,
+      "existingCombos": 4,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 4,
+      "typeAGaps": 4,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12048",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "12048",
+          "suggestedITC": "DLX",
+          "reason": "Board RO exists for hotel but category deluxe is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "13173",
+          "suggestedITC": "SPR",
+          "reason": "Board BB exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "13173",
+          "suggestedITC": "DLX",
+          "reason": "Board BB exists for hotel but category deluxe is missing"
+        }
+      ]
+    },
+    {
+      "hotelId": 64309,
+      "hotelName": "Savoy Hotel",
+      "venueId": 5103,
+      "existingCombos": 6,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 2,
+      "typeAGaps": 2,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12071",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "13155",
+          "suggestedITC": "SPR",
+          "reason": "Board BB exists for hotel but category superior is missing"
+        }
+      ]
+    },
+    {
+      "hotelId": 852120,
+      "hotelName": "SLS LUX Brickell",
+      "venueId": 5077,
+      "existingCombos": 5,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 3,
+      "typeAGaps": 3,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12035",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "13168",
+          "suggestedITC": "SPR",
+          "reason": "Board BB exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "BB",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "13168",
+          "suggestedITC": "DLX",
+          "reason": "Board BB exists for hotel but category deluxe is missing"
+        }
+      ]
+    },
+    {
+      "hotelId": 854881,
+      "hotelName": "citizenM Miami Brickell hotel",
+      "venueId": 5079,
+      "existingCombos": 1,
+      "mappedBoards": [
+        "RO"
+      ],
+      "totalGaps": 3,
+      "typeAGaps": 3,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "RO",
+          "categoryName": "superior",
+          "type": "A",
+          "suggestedRPC": "12043",
+          "suggestedITC": "SPR",
+          "reason": "Board RO exists for hotel but category superior is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "12043",
+          "suggestedITC": "DLX",
+          "reason": "Board RO exists for hotel but category deluxe is missing"
+        },
+        {
+          "boardCode": "RO",
+          "categoryName": "suite",
+          "type": "A",
+          "suggestedRPC": "12043",
+          "suggestedITC": "Suite",
+          "reason": "Board RO exists for hotel but category suite is missing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "generatedAtUtc": "2026-03-18T12:06:57.190703+00:00",
+  "totalHotelsAnalyzed": 4,
+  "hotelsWithGaps": 4,
+  "totalGaps": 4,
+  "typeA_autoFixable": 3,
+  "typeB_needsZenith": 1,
+  "gapsByHotel": [
+    {
+      "hotelId": 20702,
+      "hotelName": "Embassy Suites by Hilton Miami International Airport",
+      "venueId": 5081,
+      "existingCombos": 3,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 1,
+      "typeAGaps": 1,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "BB",
+          "categoryName": "standard",
+          "type": "A",
+          "suggestedRPC": "13170",
+          "suggestedITC": "Stnd",
+          "reason": "API returns standard/BB 1x in window. Board BB exists with RPC=13170. Auto-fixable."
+        }
+      ]
+    },
+    {
+      "hotelId": 24982,
+      "hotelName": "Hilton Miami Downtown",
+      "venueId": 5084,
+      "existingCombos": 4,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 1,
+      "typeAGaps": 1,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "BB",
+          "categoryName": "deluxe",
+          "type": "A",
+          "suggestedRPC": "13173",
+          "suggestedITC": "DLX",
+          "reason": "API returns deluxe/BB 1x in window. Board BB exists with RPC=13173. Auto-fixable."
+        }
+      ]
+    },
+    {
+      "hotelId": 66814,
+      "hotelName": "Breakwater South Beach",
+      "venueId": 5110,
+      "existingCombos": 8,
+      "mappedBoards": [
+        "RO",
+        "BB"
+      ],
+      "totalGaps": 1,
+      "typeAGaps": 1,
+      "typeBGaps": 0,
+      "gaps": [
+        {
+          "boardCode": "BB",
+          "categoryName": "apartment",
+          "type": "A",
+          "suggestedRPC": "12867",
+          "suggestedITC": "APT",
+          "reason": "API returns apartment/BB 1x in window. Board BB exists with RPC=12867. Auto-fixable."
+        }
+      ]
+    },
+    {
+      "hotelId": 854881,
+      "hotelName": "citizenM Miami Brickell hotel",
+      "venueId": 5079,
+      "existingCombos": 1,
+      "mappedBoards": [
+        "RO"
+      ],
+      "totalGaps": 1,
+      "typeAGaps": 0,
+      "typeBGaps": 1,
+      "gaps": [
+        {
+          "boardCode": "BB",
+          "categoryName": "standard",
+          "type": "B",
+          "suggestedRPC": null,
+          "suggestedITC": null,
+          "reason": "API returns standard/BB 1x in window. Board BB has NO RatePlanCode for this hotel. Needs Zenith setup."
+        }
+      ]
+    }
+  ]
+}
