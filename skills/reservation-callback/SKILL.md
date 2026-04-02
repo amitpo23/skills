@@ -76,15 +76,60 @@ Zenith sends ResStatus="Cancel"
 |-------|-------------|
 | Id | Primary key |
 | ResStatus | "Commit" / "Modify" / "Cancel" |
-| HotelCode | Zenith venue ID |
+| HotelCode | Zenith venue ID (e.g. 5109, 5080) |
 | Datefrom / Dateto | Guest stay dates |
-| AmountAfterTax | Booking price |
+| AmountAfterTax | Booking total price |
+| CurrencyCode | Currency (USD) |
 | RatePlanCode | Rate plan used |
-| RoomTypeCode | Room type |
+| RoomTypeCode | Room type (STD, DLX, SUI) |
 | AdultCount / ChildrenCount | Guests |
 | UniqueId | OTA unique identifier |
 | IsApproved | Manual approval flag |
 | IsCanceled | True if cancelled |
+| **NightlyRates** | **JSON array of per-night prices (NEW — required)** |
+| **CancellationPolicy** | **Free text cancellation terms (NEW — required)** |
+| **CancellationDeadline** | **Last free cancellation date (NEW — required)** |
+
+### NEW: Required Fields for Cross-System Sharing
+
+When reservations are shared with the prediction system (via `shared-reports/`), the following fields **MUST** be populated:
+
+```json
+{
+  "BookingNumber": "1304985",
+  "Source": "scraper",
+  "ResStatus": "Commit",
+  "HotelName": "Riu Plaza Miami Beach",
+  "HotelCode": "5109",
+  "DateFrom": "2026-05-21",
+  "DateTo": "2026-05-24",
+  "AmountAfterTax": 1000.07,
+  "CurrencyCode": "USD",
+  "RoomTypeCode": "DLX",
+  "MealPlan": "RO",
+  "AdultCount": 2,
+  "ChildrenCount": 0,
+  "GuestFirstName": "Francisco E",
+  "GuestLastName": "Romero",
+  "NightlyRates": "[{\"date\":\"2026-05-21\",\"amount\":333.36},{\"date\":\"2026-05-22\",\"amount\":333.36},{\"date\":\"2026-05-23\",\"amount\":333.35}]",
+  "CancellationPolicy": "Free cancellation until 2026-05-18",
+  "CancellationDeadline": "2026-05-18"
+}
+```
+
+#### Where to find in Noovy:
+| Field | Location in Noovy |
+|-------|-------------------|
+| HotelCode | Header next to hotel name (#XXXX) |
+| NightlyRates | Booking detail page → nightly price table |
+| CancellationPolicy | Booking detail page → Cancellation Policy section |
+| CancellationDeadline | Extracted from CancellationPolicy text |
+
+#### Output location:
+Reports go to GitHub for cross-project access:
+```
+https://raw.githubusercontent.com/amitpo23/medici-price-prediction/main/shared-reports/
+```
 
 ### Guest Data (MedReservationCustomerName)
 | Field | Description |
